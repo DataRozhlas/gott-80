@@ -1,0 +1,930 @@
+'''Toto je seznam písní zpěváka [[Karel Gott|Karla Gotta]].'''
+
+== Struktura seznamu ==
+Poz. – píseň (originální název u převzaté skladby) (autor hudby / autor textu písně), rok pořízení nahrávky.
+
+{{SHORTTOC}}
+== A ==
+* ''...a to mám rád'' ([[Karel Gott|K. Gott]] / [[Zdeněk Rytíř|Z. Rytíř]]), 1983
+* ''A máš to (You Got It)'' ([[Roy Orbison|R. Orbison]] / [[Miloš Skalka|M. Skalka]]), 2012
+* ''A průvod šel dál'' ([[Ladislav Štaidl|L. Štaidl]] / [[Miroslav Černý (moderátor)|M. Černý]]), 1977
+* ''A šmytec'' (traditional / [[Ivan Mládek|I. Mládek]]), 1980
+* ''Adagio'' ([[Ludwig van Beethoven|L. van Beethoven]] / [[Jiří Štaidl|J. Štaidl]]), 1967
+* ''Adagio'' ([[Tomaso Albinoni|T. Albinoni]] / [[Jiří Štaidl|J. Štaidl]]), 1971
+* ''Adagio'' ([[Tomaso Albinoni|T. Albinoni]] / [[Jiří Štaidl|J. Štaidl]]), s [[Marcela Holanová|Marcelou Holanovou]], 1992
+* ''Adeste Fideles Pastores'' (traditional), 1969
+* ''Adresát neznámý (From Me To You)'' ([[John Lennon|J. Lennon]], [[Paul McCartney|P. McCartney]] / [[Jiří Štaidl|J. Štaidl]]), 1964, 1987
+* ''Agnus Dei'' ([[Georges Bizet]]), 1969
+* ''Aj, ty dušička'' (traditional), 1977
+* ''Alžbětinská serenáda '' ([[Ronald Binge|R. Binge]] / [[Zdeněk Borovec|Z. Borovec]]), 1976
+* ''Amen, pravím vám (Woman, Woman)'' ([[Jim Glaser|J. Glaser]] / [[Jiří Štaidl|J. Štaidl]]), 1968
+* ''Amor'' ([[Ladislav Štaidl|L. Štaidl]] / [[Jiří Štaidl|J. Štaidl]]), 1968
+* ''Amor ti vieta'' ([[Umberto Giordano|U. Giordano]]), 1996
+* ''Amore mio (Amore mio)'' ([[Joe Sentieri|J. Sentieri]] / [[Jaroslav Machek|J. Machek]]), 1977
+* ''Angelika'' ([[Michel Magne|M. Magne]] / [[Zdeněk Borovec|Z. Borovec]], 1972
+* ''Angelina'' ([[Allan Roberts]], [[Doris Fisher|D. Fisher]] / [[Zdeněk Borovec|Z. Borovec]]), 1964
+* ''Ani náhodou nechci lásku tvou'' ([[Ladislav Štaidl]]), 1986
+* ''Apríl'' ([[Karel Vágner|K. Vágner]] / [[Pavel Žák|P. Žák]]), s ''[[Hana Zagorová|Hanou Zagorovou]]'', 1982
+* ''Ať láska má kde kvést'' ([[Karel Svoboda|K. Svoboda]] / [[Zdeněk Borovec|Z. Borovec]]), 1974
+* ''Ať to má spád'' ([[Petr a Pavel Orm|P. a P. ORM]] / [[Eduard Krečmar|E. Krečmar]]), 1994
+* ''Ave Maria'' ([[Franz Schubert|F. Schubert]]), 1969
+* ''Ave Maria'' ([[Franz Schubert|F. Schubert]] / [[Jaroslav Machek|J. Machek]]), s [[Eva Urbanová|Evou Urbanovou]], 1998
+* ''Ave verum corpus'' ([[Wolfgang Amadeus Mozart|W. A. Mozart]]), 1969
+* ''Až jednou'' ([[Karel Svoboda|K. Svoboda]] / [[Zdeněk Borovec|Z. Borovec]]), 1977
+* ''Až nám bude dvakrát tolik'' ([[Alfons Jindra|A. Jindra]] / [[Miroslav Zikán|M. Zikán]]), s [[Vlasta Průchová|Vlastou Průchovou]], 1962
+* ''Až naprší'' ([[Ladislav Štaidl|L. Štaidl]] / [[Petr Rada (textař)|P. Rada]]), 1967
+* ''Až začneme vrásky mít'' (traditional - [[Zdeněk Borovec|Z. Borovec]]), 1975
+
+== B ==
+* ''Babička'' ([[Ralph Siegel|R. Siegel]] / [[Bernd Meinunger|B. Meinunger]]), 1979
+* ''Babylon (Rivers of Babylon'' ([[Frank Farian|F. Farian]] / [[Pavel Kopta|P. Kopta]]), 1978
+* ''Bajkal'' (traditional), 1977
+* ''Barcarola'' ([[Jacques Offenbach|J. Offenbach]] / [[Jiří Aplt|J. Aplt]]), s [[Petra Janů|Petrou Janů]], 1988
+* ''Beatles'' ([[Karel Svoboda|K. Svoboda]] / [[Eduard Krečmar|E. Krečmar]]), 1980
+* ''Be–Bop–A–Lula'' ([[Tex Davis|T. Davis]], [[Gene Vincent|G. Vincent]]), 1964
+* ''Bezejmenná'' ([[Petr a Pavel Orm|P. a P. ORM]] / [[Zdeněk Borovec|Z. Borovec]]), 1994
+* ''Běž za svou láskou (Let Your Love Flow)'' ([[Miroslav Černý (moderátor)|M. Černý]]), 1977
+* ''Biene Maja (Včelka Mája)'' ([[Karel Svoboda|K. Svoboda]] / [[Florian Cusano|F. Cusano]]), 1975
+* ''Bílá (Memory)'' ([[Andrew Lloyd Weber|A. L. Weber]] / [[Hana Zagorová|H. Zagorová]]), 1981
+* ''Bílá záře'' ([[Johann Sebastian Bach|J. S. Bach]] / [[Pavel Vrba (textař)|P. Vrba]]), 1995
+* ''Bílý sníh se snáší'' ([[Ladislav Pikart|L. Pikart]] / [[František Řebíček|F. Řebíček]]), 1975
+* ''Bílé vánoce (White Christmas)''([[Irving Berlin|I. Berlin]] / [[Jaroslav Moravec|J. Moravec]]), 1982
+* ''Bláhové přání'' ([[Joachim Heider|J. Heider]] / [[Pavel Kopta|P. Kopta]]), 1984
+* ''Bláznem zdám se (Crazy)'' ([[Willie Nelson|W. Nelson]] / [[Pavel Vrba (textař)|P. Vrba]]), 2011
+* ''Bláznivé milování'' ([[Pavol Habera|P. Habera]] / [[Karel Šíp|K. Šíp]]), 1997
+* ''Bloud bláhovej'' ([[Jiří Schelinger|J. Schelinger]] / [[František Ringo Čech|F. R. Čech]]), 1979
+* ''Bloudí měsíc po anténách'' ([[Sigmund Romberg|S. Romberg]] / [[Zdeněk Borovec|Z. Borovec]]), 1996
+* ''Bloudím pasáží'' ([[Lešek Semelka|L. Semelka]] / [[Pavel Vrba (textař)|P. Vrba]]), 1978
+* ''Blues pro tebe'' ([[Jiří Suchý|J. Suchý]]), 1974, 2011
+* ''Bodnu línou paměť do slabin'' ([[Karel Svoboda|K. Svoboda]] / [[Jiří Štaidl|J. Štaidl]]), 1972
+* ''Bourám sály svou písní'' ([[Daniel Hádl|D. Hádl]] / [[Michal Horáček|M. Horáček]]), 1988
+* ''Bratři, já jsem slyšel'' (traditional), 1982
+* ''Buď mi sestrou, buď mi bráchou (He Ain't Heavy, He's My Brother'' ([[Hollies]] / [[Zdeněk Borovec|Z. Borovec]]), 1990
+* ''Bum, bum, bum'' ([[Karel Gott|K. Gott]], [[Ladislav Štaidl|L. Štaidl]] / [[Jiří Štaidl| J. Štaidl]]), 1966
+* ''Byl jak já'' ([[Ladislav Štaidl|L. Štaidl]] / [[Zdeněk Rytíř|Z. Rytíř]]), 1974
+* ''Být s tebou (Miss You Nights)'' ([[Dave Townsend|D. Townsend]] / [[Jiřina Fikejzová|J. Fikejzová]]), 2012
+* ''Byl by hřích se potmě bát'' – ([[Ralph Siegel|R. Siegel]] / [[Zdeněk Borovec|Z. Borovec]]), 1978
+* ''Být stále mlád (Forever Young'') ([[Marian Gold|M. Gold]], [[Frank Mertens|F. Mertens]] / [[Eduard Krečmar|E. Krečmar]]), 2001
+*Být stále mlád (''Für Immer Jung) (M. Gold, F. Mertens/ [[Leoš Mareš|L. Mareš]]), s [[Leoš Mareš|Leošem Marešem]], 2018''
+
+
+
+== C ==
+* ''Cesta rájem (Crying in the Chapel)'' ([[Arthur Glenn|A. Glenn]] / [[Jiří Štaidl|J. Štaidl]]), 1965
+* ''Cestu znám jen já'' ([[Jaroslav Celba|J. Celba]] / [[Ivo Fischer|I. Fischer]]), 1974
+* ''Cikánka'' ([[Karel Vacek|K. Vacek]]), 1969, 1985
+* ''Cítím (Feelings)'' ([[Morris Albert]] / [[Zdeněk Borovec|Z. Borovec]]), 1976
+* ''Claudia'' ([[Karel Mareš (skladatel)|K. Mareš]] / [[Jiří Štaidl|J. Štaidl]]), 1965
+* ''Co já vím'' ([[Pavel Žák|P. Žák]]), s [[Hana Zagorová|Hanou Zagorovou]], 1983
+* ''Co jsi jen zač? (Something's Gotten Hold Of My Heart)'' ([[Roger Cook|R. Cook]] / [[Pavel Vrba (textař)|P. Vrba]]), 1998
+* ''Co na tom? (No Matter What)'' ([[Andrew Lloyd Webber|A. L. Webber]] / [[Lucie Stropnická|L. Stropnická]]), 2012
+* ''Co s tou dávnou vzpomínkou'' ([[František Janeček (producent)|F. Janeček]] / [[Pavel Vrba (textař)|P. Vrba]]), 1997
+* ''Co sudičky přály nám'' ([[Michal David|M. David]], [[František Janeček (producent)|F. Janeček]] / [[Jaroslav Machek|J. Machek]], s [[Lucie Bílá|Lucií Bílou]], 1997
+* ''Cotton Fields'' (traditional), 1991
+* ''Co z toho mám'' ([[Karel Mareš (skladatel)|K. Mareš]] / [[Zdeněk Borovec|Z. Borovec]]), s [[Waldemar Matuška|Waldemarem Matuškou]], 1964
+* ''Což neřekl ti zrak můj tisíckrát'' ([[Jan Malát|J. Malát]] / [[Jiří Aplt|J. Aplt]]), 1983
+* ''C’est la vie'' ([[Jaromír Klempíř|J. Klempíř]] / [[Jiří Štaidl|J. Štaidl]]), 1966
+
+
+== Č ==
+* ''Čao Báro'' ([[Ladislav Štaidl|L. Štaidl]] / [[Jiří Štaidl|J. Štaidl]]), 1972
+* ''Čas růží (Delilah)'' ([[Les Reed|L. Reed]] / [[Rostislav Černý|R. Černý]]), 1968
+* ''Čau, lásko'' ([[Karel Svoboda|K. Svoboda]] / [[Karel Šíp|K. Šíp]]), s [[Marcela Holanová|Marcelou Holanovou]], 1986
+* ''Čápi už nemaj stání'' – ([[Karel Svoboda|K. Svoboda]] / [[Jiří Štaidl|J. Štaidl]]), 1969
+* ''Čas já s tebou podvádím'' ([[Zdeněk Barták (skladatel)|Z. Barták]], [[František Janeček (producent)|F. Janeček]] / [[Karel Šíp|K. Šíp]]), 
+*   Čas vánoční 
+* ''Červená rakev'' ([[Ladislav Štaidl|L. Štaidl]] / [[Ester Krumbachová|E. Krumbachová]]), 1968
+
+== D ==
+* ''Ďábel tisíc tváří má (Devil In Disguise)'' ([[Bill Giant|B. Giant]] / [[Miloš Skalka|M. Skalka]]), 2012
+* ''Ďábelská jízda'' ([[Karel Svoboda|K. Svoboda]] / [[Karel Šíp|K. Šíp]]), 1994
+* ''Dál, dál se toulám'' ([[Karel Gott|K. Gott]], [[Rudolf Rokl|R. Rokl]] / [[Zdeněk Rytíř|Z. Rytíř]]), 1978
+* ''Dál plápolej (Far, Far Away)'' ([[Noddy Holder|N. Holder]] / [[Eduard Krečmar|E. Krečmar]]), 1975
+* ''Dál za obzor'' ([[Olga Lounová]]), s [[Olga Lounová|Olgou Lounovou]], 2012
+* ''Dám ti svůj trůn'' ([[Ladislav Štaidl|L. Štaidl]] / [[Richard Bergman|R. Bergman]]), 1980
+* ''Daň z lásky tvé'' ([[Ladislav Štaidl|L. Štaidl]] / [[Zdeněk Borovec|Z. Borovec]]), 1980
+* ''Dannyboy'' (traditional), 1967
+* ''Das sind die schönsten Jahre (Rio de Janeiro)'' ([[Karel Svoboda|K. Svoboda]] / [[Bert Olden|B. Olden]]), 1971
+* ''Dávné lásky'' ([[Vítězslav Hádl|V. Hádl]] / [[Hana Zagorová|H. Zagorová]]), s [[Hana Zagorová|Hanou Zagorovou]], 1980
+* ''Della (Della and the Dealer)'' ([[Hoyt Axton|H. Axton]] / [[Miroslav Černý (moderátor)|M. Černý]]), 1981
+* ''Den je krásný''([[Jiří Bažant|J. Bažant]],[[Jiří Malásek|J. Malásek]] / [[Vratislav Blažek|V. Blažek]]), s [[Jana Petrů|Janou Petrů]], 1964
+* ''Denn es ist mehr (Kantiléna)'' ([[Jiří Zmožek|J. Zmožek]] / [[Helmut Frey|H. Frey]]), 1987
+* ''Deštivý den (Your Song)'' ([[Elton John]] / [[Pavel Kopta|P. Kopta]]), 1977
+* ''Die Biene Maja (Včelka Mája)'' ([[Karel Svoboda|K. Svoboda]] / [[Florian Cusano|F. Cusano]]), 1976
+* ''Die tausend Türme deiner Stadt (Kdepak ty, ptáčku, hnízdo máš?'' ([[Karel Svoboda|K. Svoboda]] / [[Maurus Pacher|M. Pacher]]), 1985
+* ''Dingi lingi ding dong'' ([[Vítězslav Hádl|V. Hádl]] / [[Zdeněk Borovec|Z. Borovec]]), s [[Helena Vondráčková|Helenou Vondráčkovou]], 1984
+* ''Dívka jako porcelán'' ([[Ladislav Štaidl|L. Štaidl]] / [[Jiří Štaidl|J. Štaidl]]), 1970
+* ''Dívka toulavá'' ([[Ladislav Štaidl|L. Štaidl]] / [[Jiří Štaidl|J. Štaidl]]), s [[Karel Hála|Karlem Hálou]], 1966
+* ''Dívka s kyticí'' ([[Jiří Bažant|J. Bažant]] / [[Pavel Grym|P. Grym]]), 1962
+* ''Dívka z obrazu'' ([[Petr Hapka|P. Hapka]] / [[Zdeněk Rytíř|Z. Rytíř]]), 1974
+* ''Dívka z reklam'' ([[Zdeněk Barták (skladatel)|Z. Barták]] / [[Eduard Pergner|E. Pergner]]), 1994
+* ''Dívka závodník (I Don´t Wanna Dance)'' ([[Eddy Grant|E. Grant]] / [[Eduard Krečmar|E. Krečmar]]), 1983
+* ''Dívka žlutý anděl (Undercover Angel)'' ([[Alan O'Day|A. O'Day]] / [[Zdeněk Borovec|Z. Borovec]]), 1979
+* ''Dívkám (Girls, Girls, Girls)'' ([[Georg Kajanus|G. Kajanus]] / [[Zdeněk Borovec|Z. Borovec]]), 1976
+* ''Dlouhá báj'' ([[Ladislav Štaidl|L. Štaidl]] / [[Jiří Štaidl|J. Štaidl]]), 1967
+* ''Dlouhá noc končí svítáním'' ([[Jindřich Parma|J. Parma]] / [[Pavel Cmíral|P. Cmíral]]), 1988
+* ''Dlouho jsem byl sám'' ([[Georges Bizet|G. Bizet]] / [[Vladimír Dvořák|V. Dvořák]]), 1988
+* ''Dlouho spát (Lazybones)'' ([[Hoagy Carmichael|H. Carmichael]] / [[Jiří Suchý|J. Suchý]]), 1975
+* ''Dlouhý proud mě stále láká (All the Gold in California)'' ([[Larry Gatlin|L. Gatlin]] / [[Zdeněk Borovec|Z. Borovec]]), 1981
+* ''Dnes mám perný den'' ([[Günther Mende|G. Mende]] / [[Michal Bukovič|M. Bukovič]]), 1985
+* ''Dnes v noci (Tonight)'' ([[Leonard Bernstein|L. Bernstein]] / [[Jiří Aplt|J. Aplt]]), s [[Pavla Břínková|Pavlou Břínkovou]], 1989
+* ''Dny zázraků a přání'' (traditional / [[Ivo Fischer]]), 1982
+* ''Do re mi la'' – ([[Ladislav Štaidl|L. Štaidl]] / [[Michael Prostějovský|M. Prostějovský]]), 1977
+* ''Dobrou noc'' ([[Eduard Künneke|E. Künneke]] / [[Jiří Aplt|J. Aplt]]), 1983
+* ''Domů k nám'' ([[Ladislav Štaidl|L. Štaidl]] / [[Jiří Štaidl|J. Štaidl]]), 1975
+* ''Don't Bring Me Down'' ([[Jeff Lynne|J. Lynne]]), 1980
+* ''Dotýkat se hvězd'' ([[Jiří Šlitr|J. Šlitr]] / [[Jiří Suchý|J. Suchý]]), s [[Eva Pilarová|Evou Pilarovou]], 1964
+* ''Dřív já (Dream On)'' ([[Nazareth]] / [[Eduard Krečmar|E. Krečmar]]), 1983
+* ''Duet milostný'' ([[Jiří Schelinger|J. Schelinger]] / [[František Ringo Čech|F. R. Čech]]), s [[Jarmila Gerlová|Jarmilou Gerlovou]], 1977
+* ''Du hast die Wahl (Dál za obzor)'' ([[Olga Lounová]]), s [[Olga Lounová|Olgou Lounovou]], 2012
+* ''Duj, duj'' (traditional), 1968
+* ''Dulcinea'' ([[Mitch Leigh|M. Leigh]] / [[Jan Schneider|J. Schneider]]), 1969
+* ''Dům U bílých bran (House of The Rising Sun)'' (traditional / [[Zdeněk Borovec|Z. Borovec]]), 1977
+* ''Duše'' ([[Ladislav Štaidl|L. Štaidl]] / [[Petr Rada (textař)|P. Rada]]), 1966
+
+
+== E ==
+* ''E 14'' ([[Jiří Zmožek|J. Zmožek]] / [[Jiřina Fikejzová|J. Fikejzová]]), 1984
+* ''Ein Stückchen Zucker mehr (Kávu si osladím)'' ([[Ladislav Štaidl|L. Štaidl]] / [[Fred Gertz|F. Gertz]]), 1973
+* ''Einmal um die ganze Welt (Hej, hej, baby)'' ([[Karel Svoboda|K. Svoboda]] / [[Fred Weyrich|F. Weyrich]]), 1971
+* ''[[El cóndor pasa|El condor pasa]]'' ([[Daniel Alomía Robles|D. A. Robles]] / [[Jiří Štaidl|J. Štaidl]]), 1971
+* ''Eli Eli'' (traditional), 1965
+* ''Eloise'' ([[Barry Ryan|B. Ryan]] / [[Eduard Krečmar|E. Krečmar]]), 1969, 1976, 1990
+* ''Eště si já pohár vína zaplatim'' (traditional), 1979
+
+
+== F ==
+* ''Fang das Licht (Zvonky štěstí)'' ([[Jiří Zmožek|J. Zmožek]] / [[Michael Kunze|M. Kunze]]), s [[Dara Rolins|Darinkou Rolincovou]], 1985
+* ''Fascinující rytmus (Fascinating Rhythm)'' ([[George Gershwin|G. Gershwin]] / [[Ivo Fischer|I. Fischer]]), 1964
+* ''Faust'' ([[Jindřich Parma|J. Parma]] / [[Pavel Cmíral|P. Cmíral]]), 1990
+* ''Favorit'' ([[Drupi]] / [[Pavel Kopta|P. Kopta]]), 1983
+* ''Fax mi bejby neposílej'' ([[Karel Svoboda|K. Svoboda]] / [[Karel Šíp|K. Šíp]]), s [[Lucie Bílá|Lucií Bílou]], 1997
+* ''Finestra'' (traditional), 1973
+* ''Für Immer Jung (Forever Young)'' ([[Marian Gold|M. Gold]], [[Frank Mertens|F. Mertens]] / [[Bernd Mann|B. Mann]]), 1999
+
+== G ==
+* ''Glory'' ([[Jiří Šlitr|J. Šlitr]] / [[Jiří Suchý|J. Suchý]]), s [[Eva Pilarová|Evou Pilarovou]] a [[Waldemar Matuška|Waldemarem Matuškou]], 1964
+* ''Golubčik'' (traditional), 1973
+* ''Good Bye'' ([[Karel Svoboda|K. Svoboda]] / [[Jiří Štaidl|J. Štaidl]]), 1970
+* ''Going Home (Largo)'' ([[Antonín Dvořák|A. Dvořák]]), 1974
+
+== H ==
+* ''Hajej, můj princi'' ([[Wolfgang Amadeus Mozart|W. A. Mozart]] / [[Václav Renč|V. Renč]]), 1969
+* ''Haly galy blues'' ([[Ferdinand Havlík|F. Havlík]] / [[Rostislav Černý|R. Černý]]), 1964
+* ''Hej, hej baby'' ([[Karel Svoboda|K. Svoboda]] / [[Jiří Štaidl|J. Štaidl]]), 1970
+* ''Hej, páni, dámy (Hey Baby)'' ([[Margaret Cobb|M. Cobb]] / [[Jaroslav Machek|J. Machek]]), 1979
+* ''Hej, páni konšelé'' ([[Jaromír Klempíř|J. Klempíř]] / [[Jiří Štaidl|J. Štaidl]]), 1969
+* ''Hlas v telefonu'' ([[Ladislav Štaidl|L. Štaidl]], [[Karel Gott|K. Gott]] / [[Zbyšek Malý|Z. Malý]]), 1985
+* ''Hned zítra ráno zavolám'' ([[Ladislav Štaidl|L. Štaidl]] / [[Miroslav Černý (moderátor)|M. Černý]]), 1975
+* ''Hold lásce'' ([[Jiří Škorpík|J. Škorpík]] / [[Karel Šíp|K. Šíp]]), s [[Lucie Bílá|Lucií Bílou]], 1997
+* ''Holka v domě'' ([[Karel Svoboda|K. Svoboda]] / [[Eduard Krečmar|E. Krečmar]]), 1982 
+* ''Hrátky s láskou (Emmanuelle'' ([[Francis Lai|F. Lai]] / [[Zdeněk Borovec|Z. Borovec]]), 1984
+* ''Hudba není zlá (Magnificent Sanctuary Band)'' ([[Dorsey Burnette|D. Burnette]] / [[Eduard Krečmar|E. Krečmar]]), 1973
+* ''Hudba se mnou vchází (Music)'' ([[John Miles|J. Miles]] / [[Jaroslav Machek|J. Machek]]), 1998
+* ''Hříšné bolero (No More Boleros)'' ([[Gerard Joling|G. Joling]] / [[Miroslav Černý (moderátor)|M. Černý]]), 1990
+* ''Hvězda chodníků'' ([[Pavel Fořt (hudebník)|P. Fořt]], [[Karel Gott|K. Gott]] / [[Pavel Vrba (textař)|P. Vrba]]), 1982
+* ''Hymna bližních (From A Distance)'' ([[Julie Gold|J. Gold]] / [[Karel Šíp|K. Šíp]]), 1992
+
+== CH ==
+* ''Chceš dál v mém stínu stát'' ([[Joachim Heider|J. Heider]] / [[Eduard Pergner|E. Pergner]]), 1983
+* ''Cherchez la femme'' ([[Michal David|M. David]] / [[Jaroslav Machek|J. Machek]]), 1997
+* ''Chci zpátky dát čas (Mit dir bin ich stark)'' ([[Joachim Horn-Bernges|J. Horn-Bernges]]), 2014 
+* ''Chlap jak má být (Rocky Top)'' ([[Felice and Boudleaux Bryant|F. a B. Bryant]] / [[Miroslav Černý (moderátor)|M. Černý]]), 1972
+* ''Chtěl bych mít sen'' ([[Bohuslav Sedláček|B. Sedláček]] / [[Miroslav Holman|M. Holman]]), 1965
+* ''Chtíc aby spal'' ([[Adam Václav Michna z Otradovic|A. Michna z Otradovic]]), 1982
+* ''Chyť své dny'' ([[Jindřich Parma|J. Parma]] / [[Pavel Cmíral|P. Cmíral]]), 1986
+
+== I ==
+* ''I Left My Heart in Puerto Rico'' ([[Robert Mellin|R. Mellin]] / [[Frank Barber|F. Barber]]), 1967
+* ''I Left My Heart in San  Francisco'' ([[Douglass Cross|D. Cross]] / [[George Cory|G. Cory]]), 1965
+* ''I'll Sugar Coffee More (Kávu si osladím)'' ([[Ladislav Štaidl|L. Štaidl]] / [[Joy Turner|J. Turner]]), 1974
+* ''Indiánská píseň lásky'' ([[Rudolf Friml|R. Friml]] / [[Jiří Aplt|J. Aplt]]), s [[Eva Pilarová|Evou Pilarovou]], 1972
+* ''Indiánská píseň lásky'' ([[Rudolf Friml|R. Friml]] / [[Jiří Aplt|J. Aplt]]), 1975, 1983
+* ''Isabel'' ([[Karel Gott|K. Gott]] / [[Hana Sorrosová|H. Sorrosová]]), 2002
+* ''Isabella'' ([[Karel Gott|K. Gott]] / [[Jiří Štaidl|J. Štaidl]]), 1965
+* ''Išel Macek'' (traditional), 1973
+
+== J ==
+* ''Já (Till)'' ([[Charles Danvers|Ch. Danvers]] / [[Zdeněk Borovec|Z. Borovec]]), 1972
+* ''Já brány už otvírám'' ([[Angelo Michajlov|A. Michajlov]] / [[Jiří Štaidl|J. Štaidl]]), 1973
+* ''Já bych rád k Betlému'' (traditional), 1982
+* ''Já býval jsem tvůj'' ([[Sergej Rachmaninov|S. Rachmaninov]] / [[Zdeněk Borovec|Z. Borovec]]), 1993
+* ''Já jsem všech roztržitých král'' ([[Ladislav Štaidl|L. Štaidl]] / [[František Ringo Čech|F. R. Čech]]), 1976
+* ''Já lásku z básní znám'' ([[Angelo Michajlov|A. Michajlov]] / [[František Řebíček|F. Řebíček]]), 1976
+* ''Já měl vás rád (Ja vas ljubil)'' ([[Boris Šeremetěv|B. Šeremetěv]] / [[Pavel Kopta|P. Kopta]]), 1979
+* ''Já mít tak dar'' ([[Ladislav Štaidl|L. Štaidl]] / [[Jiří Štaidl|J. Štaidl]]), 1975
+* ''Já nápad mám'' ([[Bohuslav Ondráček|B. Ondráček]] / [[Zdeněk Borovec|Z. Borovec]]), 1973
+* ''Já opustil tě ráno (Main Travelled Road''  ([[Jackie Leven|J. Leven]] / [[Zdeněk Rytíř|Z. Rytíř]]), 1982
+* ''Já se asi v létě ožením'' ([[Ladislav Štaidl|L. Štaidl]] / [[Jiří Štaidl|J. Štaidl]]), 1971
+* ''Já se smál'' ([[Ladislav Štaidl|L. Štaidl]] / [[Zdeněk Borovec|Z. Borovec]]), 1980
+* ''Já se tiše odporoučím'' ([[Karel Svoboda|K. Svoboda]] / [[Jiří Štaidl|J. Štaidl]]), 1970
+* ''Já se vrátím (Largo)'' ([[Antonín Dvořák|A. Dvořák]] / [[Zdeněk Borovec|Z. Borovec]]), 1993
+* ''Já si najmu altán (I Almost Lost My Mind)'' ([[Ivory Joe Hunter|I. J. Hunter]] / [[Zdeněk Borovec|Z. Borovec]]), 1976
+* ''Já slyšel o ráji (I've Never Been to Me)'' ([[Ken Hirsch|K. Hirsch]] / [[Hana Zagorová|H. Zagorová]]), 1983
+* ''Já tančil s Laurou'' ([[Karel Svoboda|K. Svoboda]] / [[Zdeněk Rytíř|Z. Rytíř]]), 1972
+* ''Já tě poznal (Du lebst nur einmal)'' ([[Ralph Siegel|R. Siegel]] / [[Miroslav Černý (moderátor)|M. Černý]]), 1978
+* ''Já toužím po životě'' ([[Karel Svoboda|K. Svoboda]] / [[Jiří Štaidl|J. Štaidl]]), 1970
+* ''Ja vas ljubil'' ([[Boris Šeremetěv|B. Šeremetěv]]), 1977
+* ''Já viděl kvést Prahu v máji'' ([[Zdeněk Marat|Z. Marat]] / [[Zdeněk Borovec|Z. Borovec]]), 1980
+* ''Já vzdávám válku (Una casa in cima al mondo)'' ([[Pino Donaggio|P. Donaggio]] / [[Jiří Štaidl|J. Štaidl]]), 1966
+* ''Já žil, jak jsem žil (For Once In My Life)''  ([[Orlando Murden|O. Murden]] / [[Zdeněk Borovec|Z. Borovec]]), 1989
+* ''Jak já se vracím rád'' ([[Ladislav Štaidl|L. Štaidl]] / [[Eduard Krečmar|E. Krečmar]]), 1982
+* ''Jak jsi krásné, neviňátko'' (traditional), 1982
+* ''Jak málo víš'' ([[Karel Svoboda|K. Svoboda]] / [[Pavel Žák|P. Žák]]), 1980
+* ''Jak ten proud'' ([[Joachim Heider|J. Heider]] / [[Eduard Krečmar|E. Krečmar]]), 1984
+* ''Jak ten ptáček (Per la gloria d'adorarvi)'' ([[Giovanni Bononcini|G. Bononcini]] / [[Eduard Pergner|E. Pergner]]), 1993
+* ''Jak bludný Holanďan'' ([[Jindřich Brabec|J. Brabec]] / [[Petr Rada (textař)|P. Rada]]), 1968
+* ''Jako James Bond'' ([[Petr a Pavel Orm|P. a P. ORM]] / [[Ondřej Hejma|O. Hejma]]), 2002
+* ''Jarmark ve Scarborough (Scarborough Fair)'' (traditional), s [[Marta Kubišová|Martou Kubišovou]], 1993
+* ''Jarní setkání'' ([[Michal David|M. David]], [[František Janeček (producent)|F. Janeček]] / [[Lou Fanánek Hagen]]), s [[Lucie Bílá|Lucií Bílou]], 1997
+* ''Jdi za štěstím'' ([[Karel Svoboda|K. Svoboda]] / [[Zdeněk Borovec|Z. Borovec]]), 1977, 2005, 2019
+* ''Je jaká je (Sereno é)'' ([[Drupi]] / [[Zdeněk Borovec|Z. Borovec]]), 1975
+* ''Je krásné lásku dát (Love Is A Many Splendored Thing)'' ([[Sammy Fain|S. Fain]] / [[Zdeněk Borovec|Z. Borovec]]), s [[Milan Chladil|Milanem Chladilem]], 1964
+* ''Je slavná (Madonna)'' ([[Thomas Strasser|T. Strasser]] / [[Eduard Krečmar|E. Krečmar]]), 1985
+* ''Jeď, má to spád'' ([[Karel Gott|K. Gott]], [[Pavel Větrovec|P. Větrovec]] / [[Michal Bukovič|M. Bukovič]]), 1990
+* ''Jeden muzikant'' ([[Ladislav Štaidl|L. Štaidl]], [[Karel Gott|K. Gott]] / [[Zdeněk Borovec|Z. Borovec]]), 1988
+* ''Jediná'' ([[Karel Gott|K. Gott]], [[Rudolf Rokl|R. Rokl]] / [[Eduard Pergner|E. Pergner]]), 1985
+* ''Jednadvacet'' ([[Oskar Nedbal|O. Nedbal]] / [[Zdeněk Knittl|Z. Knittl]]), s [[Waldemar Matuška|Waldemarem Matuškou]], 1981
+* ''Jen já vím (When A Man Loves A Woman)'' ([[Calvin Lewis|C. Lewis]] / [[Pavel Vrba (textař)|P. Vrba]]), 1998
+* ''Jen jednou smím se ti lásko vzdát'' ([[Michal David|M. David]], [[František Janeček (producent)|F. Janeček]] / [[Vladimír Kočandrle|V. Kočandrle]]), s [[Lucie Bílá|Lucií Bílou]], 1997
+* ''Jen láska tvá'' ([[Karel Gott|K. Gott]], [[Pavel Větrovec|P. Větrovec]] / [[Miroslav Černý (moderátor)|M. Černý]]), 1990
+* ''Jen pár večerů (Unforgettable)'' ([[Irving Gordon|I. Gordon]] / [[Zdeněk Borovec|Z. Borovec]]), 1995
+* ''Jen se hádej (It’s A Heartache)''  ([[Ronnie Scott|R. Scott]] / [[Eduard Krečmar|E. Krečmar]]), 1979
+* ''Jestli tě budu mít rád'' ([[Karel Gott|K. Gott]] / [[Eduard Krečmar|E. Krečmar]]), 2002
+* ''Ještě to daleko mám'' ([[Ladislav Štaidl|L. Štaidl]] / [[Zdeněk Borovec|Z. Borovec]]), 1978
+* ''Jezebel'' ([[Wayne Shanklin|W. Shanklin]] / [[Zdeněk Borovec|Z. Borovec]]), 1964, 1990
+* ''Joj, cigán'' ([[Emmerich Kálmán|E. Kálmán]] / [[Bedřich Zavadil|B. Zavadil]]), 1987
+* ''Jsem chlap, co mlčí'' ([[Ladislav Štaidl|L. Štaidl]]), 1984
+* ''Jsem na světě rád (Cryin' Time)'' ([[Buck Owens|B. Owens]] / [[Jiří Štaidl|J. Štaidl]]), 1966
+* ''Joe Kain'' ([[Jaroslav Jakoubek|J. Jakoubek]]), 1964
+* ''Jsi krásná'' ([[Karel Gott|K. Gott]], [[Rudolf Rokl|R. Rokl]] / [[Eduard Krečmar|E. Krečmar]]), 1982
+* ''Jsou svátky (Mandy)'' ([[Scott English|S. English]] / [[Zdeněk Borovec|Z. Borovec]]), 1976, 1991
+* ''Julia'' ([[Bohuslav Ondráček|B. Ondráček]] / [[Zdeněk Borovec|Z. Borovec]]), 1972
+
+== K ==
+* ''K mým touhám jsi skoupá'' ([[Daniel Hádl|D. Hádl]] / [[Karel Šíp|K. Šíp]]), 2004
+* ''K vánocům se vrátím (I'll Be Home For Christmas)'' ([[Walter Kent|W. Kent]] / [[Eduard Krečmar|E. Krečmar]]), 1995
+* ''Kakaová'' ([[Karel Svoboda|K. Svoboda]] / [[Karel Šíp|K. Šíp]]), 1994
+* ''Kam běží vítr (Red Sails In The Sunset'' ([[Jimmy Kennedy|J. Kennedy]] / [[Jiří Aplt|J. Aplt]]), 1965
+* ''Kam se schoulíš'' ([[Karel Svoboda|K. Svoboda]] / [[Eduard Krečmar|E. Krečmar]]), 1980
+* ''Kam se to ztrácí'' ([[Milan Drobný|M. Drobný]] / [[Zdeněk Borovec|Z. Borovec]]), 1988
+* ''Kam tenkrát šel můj bratr Jan (All By Myself)'' ([[Eric Carmen]]) – [[1978]]
+* ''Kantiléna'' ([[Jiří Zmožek|J. Zmožek]] / [[Eduard Krečmar|E. Krečmar]]), 1986
+* ''Károu parádní (Cara mia)'' ([[Tulio Trapani|T. Trapani]] / [[Karel Gott|K. Gott]]), 1998
+* ''Káva a rýže'' ([[Ladislav Štaidl|L. Štaidl]] / [[Jiří Štaidl|J. Štaidl]]), 1969
+* ''Kavárna Sladký ráj'' ([[Ladislav Štaidl|L. Štaidl]] / [[Eduard Pergner|E. Pergner]]), 1980
+* ''Kávu si osladím'' ([[Ladislav Štaidl|L. Štaidl]] / [[Jiří Štaidl|J. Štaidl]]), 1972
+* ''Každý jednou velkou lásku potká (Everybody Loves Somebody Sometimes)'' ([[Ken Lane|K. Lane]] / [[Jiřina Fikejzová|J. Fikejzová]]), 2011
+* ''Každý má svůj sen'' ([[Andrew Lloyd Webber|A. L. Webber]] / [[Michael Prostějovský|M. Prostějovský]]), 2007
+* ''Kde jsou ta trápení'' ([[Bohuslav Ondráček|B. Ondráček]] / [[Zdeněk Borovec|Z. Borovec]]), 1974
+* ''Kde stál ten dům'' ([[Rudolf Rokl|R. Rokl]], [[Karel Gott|K. Gott]] / [[Eduard Krečmar|E. Krečmar]]), 1978
+* ''Kdepak, ty ptáčku, hnízdo máš?'' ([[Karel Svoboda|K. Svoboda]] / [[Jiří Štaidl|J. Štaidl]]), 1973
+* ''Kdo country zpívá'' ([[Karel Svoboda|K. Svoboda]] / [[Michal Bukovič|M. Bukovič]]), 1981
+* ''Kdo tě bílá břízo svléká'' ([[Karel Svoboda|K. Svoboda]] / [[Jaroslav Machek|J. Machek]]), 1978
+* ''Kdo teď má tě rád'' ([[Bohuslav Ondráček|B. Ondráček]] / [[Zdeněk Borovec|Z. Borovec]]), 1976
+* ''Kdo ví, kde je ta pláž (La mer)'' ([[Charles Trenet|Ch. Trenet]] / [[František Řebíček|F. Řebíček]]), 1980
+* ''Kdo z nás smí se vrátit (Could It Be Magic)'' ([[Barry Manilow|B. Manilow]] / [[Zdeněk Borovec|Z. Borovec]]), 1977
+* ''Kdyby klavír jen hrál'' ([[Vladimír Popelka|V. Popelka]] / [[Richard Bergman|R. Bergman]]), 1978
+* ''Kdyby nepadal déšť (Je n'aurai pas le temps)'' ([[Michel Paul Fugain|M. P. Fugain]] / [[Jiří Štaidl|J. Štaidl]]), 1968
+* ''Kdyby sis oči vyplakala'' ([[Jiří Bažant|J. Bažant]], [[Jiří Malásek|J. Malásek]], [[Vlastimil Hála|V. Hála]] / [[Vratislav Blažek|V. Blažek]]), 1964
+* ''Kdybych nebyl'' ([[Jaroslav V. Dudek|J. V. Dudek]] / [[Jiří Aplt|J. Aplt]]), 1964
+* ''Kdybych nevyhrál'' ([[Marek Eben|M. Eben]]), s [[Lucie Bílá|Lucií Bílou]], 1998
+* ''Když je slunce nad hlavou'' ([[Ladislav Štaidl|L. Štaidl]] / [[Eduard Pergner|E. Pergner]]), s [[Dara Rolins|Darinou Rolincovou]], 1986
+* ''Když jsem já byl tenkrát kluk (Hier encore)'' ([[Charles Aznavour|Ch. Aznavour]] / [[Jiří Štaidl|J. Štaidl]]), 1971
+* ''Když jsem sám (Since I Don't Have You)'' ([[Joseph Rock|J. Rock]], [[Lennie Martin|L. Martin]] / [[Eduard Krečmar|E. Krečmar]]), 1998
+* ''Když jsi mívala mini (Does Your Mother Know)'' ([[Benny Andersson|B. Andersson]], [[Björn Ulvaeus|B. Ulvaeus]] / [[Eduard Krečmar|E. Krečmar]]), 1979
+* ''Když láska se ztrácí'' ([[Lešek Wronka|L. Wronka]] / [[Petr Šiška|P. Šiška]]), s [[Helena Vondráčková|Helenou Vondráčkovou]], 2004
+* ''Když máš ji rád vážně (Have You Ever Really Loved A Woman?)'' ([[Michael Kamen|M. Kamen]] / [[Eduard Krečmar|E. Krečmar]]), 2015
+* ''Když mě přijmeš do svých svátků (When You Tell Me That You Love Me) ([[Albert Hammond|A. Hammond]] / [[Zdeněk Borovec|Z. Borovec]]), s [[Helena Vondráčková|Helenou Vondráčkovou]], 1995
+* ''Když milenky pláčou (Annie's Song)''  ([[John Denver|J. Denver]] / [[Zdeněk Borovec|Z. Borovec]]), 1982
+* ''Když mne stará matka'' ([[Antonín Dvořák|A. Dvořák]] / [[Adolf Heyduk|A. Heyduk]]), 1967
+* ''Když muž se ženou snídá'' ([[Pavol Habera|P. Habera]] / [[ Karel Šíp|K. Šíp]]), 1992
+* ''Když pláčeš, když se směješ (Se piangi, se ridi)'' ([[Roberto Satti|R. Satti]] / [[Jiřina Fikejzová|J. Fikejzová]]), 1965
+* ''Když první díl začíná (Begin The Beguine)'' ([[Cole Porter|C. Porter]] / [[Zdeněk Borovec|Z. Borovec]]), 1982
+* ''Když se ztrácí rovnováha'' ([[Jiří Škorpík|J. Škorpík]] / [[Lou Fanánek Hagen]]), 2004
+* ''Když vítěz mává nám (The Winner Takes It All)'' ([[Benny Andersson|B. Andersson]], [[Björn Ulvaeus|B. Ulvaeus]] / [[Pavel Kopta|P. Kopta]]), 1980
+* ''Keby som bol vtáčkom'' (traditional), 2010
+* ''Keď sem já byl osnáct roků mládenec'' (traditional), 2010
+* ''Kéž jsem to já (Je t'appartiens)'' ([[Gilbert Bécaud|G. Bécaud]] / [[Zdeněk Borovec|Z. Borovec]]), s [[Jitka Zelenková|Jitkou Zelenkovou]], 1980
+* ''Klíč ke všem proměnám (Love Changes Everything)'' ([[Andrew Lloyd Webber|A. L. Webber]] / [[Zdeněk Borovec|Z. Borovec]]), 1991
+* ''Kluk s velkou vášní'' ([[Boris Urbánek|B. Urbánek]] / [[Radovan Šťastný|R. Šťastný]]), 2014
+* ''Kol Nidre'' (traditional, [[Zdeněk Marat|Z. Marat]]), 1967
+* ''Konec ptačích árií'' ([[Karel Svoboda|K. Svoboda]] / [[Jiří Štaidl|J. Štaidl]]), 1975
+* ''Korunou si hodím (Down On The Corner)'' ([[John Cameron Fogerty|J. C. Fogerty]] / [[Jiří Štaidl|J. Štaidl]]), 1971
+* ''Kostky jsou vrženy (Hernando's Hideaway)'' ([[Richard Adler|R. Adler]], [[Jerry Ross|J. Ross]] / [[Zdeněk Rytíř|Z. Rytíř]]), 1973
+* ''Košíkář'' (traditional / [[Ivo Fischer|I. Fischer]]), 1977
+* ''Kousek za městem'' ([[Karel Mareš (skladatel)|K. Mareš]] / [[Jiří Štaidl|J. Štaidl]]), s [[Eva Pilarová|Evou Pilarovou]], 1965
+* ''Kouzelný song'' ([[Ladislav Štaidl|L. Štaidl]] / [[Eduard Pergner|E. Pergner]]), 1984
+* ''Královny krásy'' ([[Pavol Habera|P. Habera]] / [[Jaroslav Machek|J. Machek]]), 1997
+* ''Krása (I Believe In You)'' ([[Matteto Saggese|M. Saggese]] / [[Pavel Vrba (textař)|P. Vrba]]), s [[Lucie Bílá|Lucií Bílou]], 2008
+* ''Krásné je žít (Somewhere My Love)'' ([[Maurice Jarre|M. Jarre]] / [[Jiří Aplt|J. Aplt]]), 1989
+* ''Krásný tón houslí tvých'' ([[Jiří Svoboda (skladatel)|J. Svoboda]] / [[Jaroslav Machek|J. Machek]]), 1978
+* ''Krášlím tě, lásko, vším, co mám (Una furtiva lagrima)'' ([[Gaetano Donizetti|G. Donizetti]] / [[Zdeněk Borovec|Z. Borovec]]), 1991
+* ''Krédo'' ([[Michal David|M. David]], [[František Janeček (producent)|F. Janeček]] / [[Jaroslav Machek|J. Machek]]), s [[Lucie Bílá|Lucií Bílou]], 1997
+* ''Krev toulavá'' ([[Karel Svoboda|K. Svoboda]] / [[Karel Šíp|K. Šíp]]), 1989
+* ''Kříž z kaktusů'' ([[Ladislav Štaidl|L. Štaidl]] / [[Rostislav Černý|R. Černý]]), 1967
+* ''Kto dokáže'' ([[Igor Timko|I. Timko]]), s [[No Name]], 2017
+* ''Kufr iluzí'' ([[Ladislav Štaidl|L. Štaidl]] / [[Jiří Štaidl|J. Štaidl]]), 1975
+* ''Kvítek mandragory (Is This The Way To Amarillo)'' ([[Neil Sedaka|N. Sedaka]], [[Howard Greenfield|H. Greenfield]] / [[Zdeněk Rytíř|Z. Rytíř]]), 1972 
+* ''Kvůli vám (Born To Lose)'' ([[Frankie Brown|F. Brown]] / [[Jiří Štaidl|J. Štaidl]]), 1967
+
+== L ==
+* ''La danza'' ([[Gioacchino Rossini|G. Rossini]]), 1978
+* ''Lady Carneval'' ([[Karel Svoboda|K. Svoboda]] / [[Jiří Štaidl|J. Štaidl]])), 1968 
+* ''Lady Moonlight'' ([[Jiří Zmožek|J. Zmožek]] / [[Michal Horáček|M. Horáček]]), 1986
+* ''Láska až za hrob'' ([[Jaromír Klempíř|J. Klempíř]] / [[Jiří Štaidl|J. Štaidl]]), 1965
+* ''Láska bláznivá'' ([[Karel Svoboda|K. Svoboda]] / [[Jiří Štaidl|J. Štaidl]]), 1969
+* ''Láska je nádhera (A Love So Beautiful)'' ([[Roy Orbison|R. Orbison]], [[Jeffrey Lynne|J. Lynne]] / [[Miloš Skalka|M. Skalka]]), 2013
+* ''Láska je výlet balónem'' ([[Ladislav Štaidl|L. Štaidl]] / [[Jiří Štaidl|J. Štaidl]]), s [[Jitka Molavcová|Jitkou Molavcovou]], 1975
+* ''Láska se v lásce ztrácí'' ([[Georg Friedrich Händel|G. F. Händel]] / [[Eduard Pergner|E. Pergner]]), 1993
+* ''Láska umírá'' ([[Ladislav Štaidl|L. Štaidl]] / [[Eduard Krečmar|E. Krečmar]]), 1967
+* ''Láska usíná'' ([[Karel Svoboda|K. Svoboda]] / [[Michael Prostějovský|M. Prostějovský]]), 1972
+* ''Láska, to je déšť'' ([[Petr Chmela|P. Chmela]] / [[Karel Šíp|K. Šíp]]), 2014
+* ''Láska, to je drama (Long Train Running)'' ([[Tom Johnston|T. Johnston]] / [[Pavel Vrba (textař)|P. Vrba]]), 1998
+* ''Láskám (Hot Stuff)'' ([[Pete Bellotte|P. Bellotte]] / [[Eduard Krečmar|E. Krečmar]]), 1979
+* ''Lásko, bože, lásko'' (traditional), 2010
+* ''Lásko, jen houšť (Hellou Young Lovers)'' ([[Richard Rodgers|R. Rodgers]] / [[Miroslav Černý (moderátor)|M. Černý]]), 1975
+* ''Lásko, říkám stop'' ([[Michal David|M. David]] / [[Hana Sorosová|H. Sorosová]]), 1997
+* ''Lásko, tvoje jméno je Zkáza!'' ([[Ondřej Soukup|O. Soukup]] / [[Janek Ledecký|J. Ledecký]]), 1992
+* ''Lásko má (Unchained Melody)'' ([[Alex North|A. North]] / [[Zdeněk Borovec|Z. Borovec]]), 1984
+* ''Láskou a květem se braň (Young Girl)'' ([[Jerry Fuller|J. Fuller]] / [[Zdeněk Borovec|Z. Borovec]]), 2013
+* ''Láskou se léčí (Something Has Changed Me)'' ([[Paul Anka|P. Anka]] / [[Eduard Krečmar|E. Krečmar]]), 1964
+* ''Lásku chval (Be My Love)'' ([[Nicholas Brodzsky|N. Brodzsky]] / [[Ivo Fischer|I. Fischer]]), 1975
+* ''Lásky stárnou'' ([[Milan Drobný|M. Drobný]] / [[Zdeněk Rytíř|Z. Rytíř]]), 1973
+* ''Lásky z náměstí'' ([[Severyn Krajewski|S. Krajewski]] / [[Pavel Vrba (textař)|P. Vrba]]), 1997
+* ''Let Love Spread Far And Wide (Ať láska má kde kvést)'' ([[Karel Svoboda|K. Svoboda]] / [[Joy Turner|J. Turner]]), 1975
+* ''Léta prázdnin (Le moribond)'' ([[Jacques Brel|J. Brel]] / [[Zdeněk Borovec|Z. Borovec]]), 1975
+* ''Léto jak má být (Working My Way Back To You)'' ([[Sandy Linzer|S. Linzer]] / [[Eduard Krečmar|E. Krečmar]]), 1980
+* ''Loď písní'' ([[Ladislav Štaidl|L. Štaidl]] / [[Zdeněk Borovec|Z. Borovec]]), 1976
+* ''Loď snů'' ([[Jiří Zmožek|J. Zmožek]] / [[Michal Horáček|M. Horáček]]), 1988
+* ''Lorelay'' ([[Petr Hapka|P. Hapka]] / [[Zdeněk Borovec|Z. Borovec]]), 1977
+* ''Lůžko za horou'' ([[Ladislav Štaidl|L. Štaidl]] / [[Eduard Krečmar|E. Krečmar]]), 1967
+
+== M ==
+* ''Má daleká cesto'' ([[Jaroslav Dudek (skladatel)|J. Dudek]] / [[Zdeněk Borovec|Z. Borovec]]), 1964
+* ''Má dívenka jak růže je'' ([[Zdeněk Fibich|Z. Fibich]]), 1983
+* ''Má mě ráda'' ([[Jiří Bažant|J. Bažant]] / [[Vratislav Blažek|V. Blažek]]), 1966
+* ''Má oči šedé'' ([[Jiří Bažant|J. Bažant]] / [[Jiří Štaidl|J. Štaidl]]), 1964
+* ''Má píseň (My Love Song)'' ([[Mitch Murray|M. Murray]] / [[Jiří Štaidl|J. Štaidl]]), 1972
+* ''Má pouť (My Way)'' ([[Claude Francois|C. Francois]], [[Jacques Revaux|J. Revaux]] / [[Eduard Krečmar|E. Krečmar]]), 2006
+* ''Má první láska se dnes vdává (You’re Such A Good-Looking Woman)'', ([[Joe Dolan|J. Dolan]] / [[Jiří Štaidl|J. Štaidl]]), 1970
+* ''Má touha má dvě křídla'' ([[Karel Svoboda|K. Svoboda]] / [[Jiří Štaidl|J. Štaidl]]), 1972
+* ''Má v očích zář (When He Shines)'' ([[Dominic Bugatti|D. Bugatti]] / [[Zdeněk Rytíř|Z. Rytíř]]), 1984
+* ''Mackie Messer'' ([[Kurt Weill|K. Weill]] / [[Jiří Suchý|J. Suchý]]), 2002
+* ''Made In Italy'' ([[Dario Farina|D. Farina]] / [[Eduard Krečmar|E. Krečmar]]), 1984
+* ''Madona z nároží'' ([[Pavel Větrovec|P. Větrovec]], [[Karel Gott|K. Gott]] / [[Karel Šíp|K. Šíp]]), 1992
+* ''Malá noční hudba'' ([[Wolfgang Amadeus Mozart|W. A. Mozart]] / [[Ivo Fischer|I. Fischer]]), 1990
+* ''Malá píseň'' ([[Petr Hapka|P. Hapka]] / [[Petr Rada (textař)|P. Rada]]), 1964
+* ''Malagou když struny zvoní (La Malaguena)'' ([[Miguel Aceves Mejía|M. A. Mejía]] / [[Karel Šíp|K. Šíp]]), 1992
+* ''Malé tiché štěstí (Have Yourself A Merry Little Christmas'' ([[Hugh Martin|H. Martin]] / [[Eduard Krečmar|E. Krečmar]]), 1995
+* ''Málem bych zapomněl'' ([[Ondřej Soukup|O. Soukup]] / [[Eduar Pergner|E. Pergner]]), 1985
+* ''Malvína'' ([[Ladislav Štaidl|L. Štaidl]] / [[Jiří Štaidl|J. Štaidl]]), 1972
+* ''Mám dost síly'' ([[Pavel Větrovec|P. Větrovec]], [[Karel Gott|K. Gott]] / [[Michal Bukovič|M. Bukovič]]), 1992
+* ''Mám rád Máchův Máj'' ([[Karel Svoboda|K. Svoboda]] / [[Karel Šíp|K. Šíp]]), 1988
+* ''Mám rozprávkový dom'' ([[Vieroslav Matušík|V. Matušík]] / [[Eliška Jelínková|E. Jelínková]]), 1966
+* ''Mám tě (Vera)'' ([[Günther-Eric Thöner|G. E. Thöner]] / [[Zdeněk Borovec|Z. Borovec]]), 1982
+* ''Mám tě rád víc než dřív (I'm Coming Home)'' ([[Les Reed|L. Reed]] / [[Jiří Štaidl|J. Štaidl]]), 1968
+* ''Mám tu krásný výhled (Prisoners of the Heart'' ([[David Wolfert|D. Wolfert]] / [[Zdeněk Rytíř|Z. Rytíř]]), 1985
+* ''Mám zlatej důl'' ([[Karel Svoboda|K. Svoboda]] / [[Jiří Suchý|J. Suchý]]), 1976
+* ''Maria'' ([[Leonard Bernstein|L. Bernstein]] / [[Jiří Aplt|J. Aplt]]), 1964
+* ''Máš mě v patách'' ([[Karel Svoboda|K. Svoboda]] / [[Jaroslav Machek|J. Machek]]), 1978
+* ''Máš-li s kým'' ([[Petr Malásek|P. Malásek]] / [[Zdeněk Borovec|Z. Borovec]]), 1999
+* ''Měl jsem rád a mám (Soleado)'' ([[Zacar]], [[Dario Baldan Bembo|D. B. Bembo]] / [[Zdeněk Borovec|Z. Borovec]]), 1975
+* ''Měsíční řeka (Moon River)'' ([[Henry Mancini|H. Mancini]] / [[Karel Jelínek|K. Jelínek]]), 1964
+* ''Miluj'' ([[Seweryn Krajewski|S. Krajewski]] / [[Eduard Krečmar|E. Krečmar]]), 1997
+* ''Miluj mne nebo opusť (Love Me Or Leave Me)'' ([[Walter Donaldson|W. Donaldson]] / [[Jiří Suchý|J. Suchý]]) s [[Karel Štědrý|Karlem Štědrým]], 1964
+* ''Mikrofón'' ([[Jiří Pertl|J. Pertl]] / [[Eduard Krečmar|E. Krečmar]], [[Karel Gott|K. Gott]]), 1990
+* ''Milión důvodů'' ([[Vítězslav Hádl|V. Hádl]] / [[Miroslav Černý (redaktor)|M. Černý]]), 1982
+* ''Miriam'' ([[Joachim Heider|J. Heider]] / [[Pavel Kopta|P. Kopta]]), 1984
+* ''Miss Jones (Have You Meet Mis Jones?)'' ([[Richard Rodgers|R. Rodgers]] / [[Pavel Vrba (textař)|P. Vrba]]), 2011
+* ''Miss Universe'' ([[Pavol Habera|P. Habera]] / [[Miroslav Černý (redaktor)|M. Černý]]), 1992
+* ''Místa, která znáš'' ([[Viktor Dyk (zpěvák)|V. Dyk]]) s [[Monika Bagárová|Monikou Bagárovou]], 2014
+* ''Mistrál'' ([[Karel Svoboda|K. Svoboda]] / [[Jiří Štaidl|J. Štaidl]]), 1972 
+* ''Mít pouhej tejden (Good Morning Freedom)'' ([[Mike Hazlewood|M. Hazlewood]] / [[Pavel Vrba (textař)|P. Vrba]]) s [[Marie Rottrová|Marií Rottrovou]], 1970
+* ''Mlčení ve dvou'' ([[Karel Gott|K. Gott]], [[Rudolf Rokl|R. Rokl]] / [[Michal Bukovič|M. Bukovič]]), 1986
+* ''Modrá jeskyně'' ([[Ivan Kotrč|I. Kotrč]] / [[Zbyněk Vavřín|Z. Vavřín]]), 1966
+* ''Modrý sarafán'' (traditional), 1973
+* ''Modrý sen'' ([[Ladislav Štaidl|L. Štaidl]] / [[Pavel Kopta|P. Kopta]]), 1988
+* ''Moji přátelé'' ([[Roman Cejnar|R. Cejnar]] / [[Jan Krůta|J. Krůta]]), 1990
+* ''Monte Christo'' ([[Bohuslav Ondráček|B. Ondráček]] / [[Zdeněk Rytíř|Z. Rytíř]]), 1974
+* ''Moudré smíření'' (traditional), 1982
+* ''Mr. Green (Přijela pouť)'' ([[Ladislav Štaidl|L. Štaidl]] / [[Adolf Langer|A. Langer]]), 1973
+* ''Můj adresář'' ([[Josef Kolín|J. Kolín]] / [[František Řebíček|F. Řebíček]]), 1976
+* ''Můj bože, můj bože'' ([[Vlastimil Hála|V. Hála]] / [[Jiří Brdečka|J. Brdečka]]), 1964
+* ''Můj cíl'' ([[Bohuslav Ondráček|B. Ondráček]] / [[Zdeněk Borovec|Z. Borovec]]), 1973
+* ''Můj déšť'' ([[Karel Svoboda|K. Svoboda]] / [[Zdeněk Borovec|Z. Borovec]]), 1974
+* ''Můj otčenáš (Spanish Eyes)'' ([[Bert Kaempfert|B. Kaempfert]] / [[Jiří Štaidl|J. Štaidl]]), 1983
+* ''Můj refrén'' ([[Karel Svoboda|K. Svoboda]] / [[Zdeněk Borovec|Z. Borovec]]), 1974
+* ''Můj strážný anděl (Scarlet Angel'' ([[Tony Sadler|T. Sadler]], [[Gaynor Sadler|G. Sadler]] / [[Lou Fanánek Hagen]]), 2004
+* ''Musíš být jenom má'' ([[Karel Svoboda|K. Svoboda]] / [[Eduard Krečmar|E. Krečmar]]), 1987 
+* ''Muzika (Musica)'' ([[Toto Cutugno|T. Cutugno]] / [[Pavel Kopta|P. Kopta]]), 1985
+* ''Mží'' ([[Michal David|M. David]] / [[Zdeněk Borovec|Z. Borovec]]) s [[Hana Zagorová|Hanou Zagorovou]], 1994
+
+
+== N ==
+* ''Na konci aleje'' ([[Josef Vobruba|J. Vobruba]] / [[Jindřich Pokorný|J. Pokorný]]), 1964
+* ''Na nás to neplatí'' ([[John Gollwell|J. Gollwell]] / [[Jiří Suchý|J. Suchý]]), s [[Josef Zíma|Josefem Zímou]], 1963
+* ''Na perském trhu'' ([[K. W. Albert]] / [[Zdeněk Borovec|Z. Borovec]]), 1963
+* ''Na rozloučenou'' (traditional / [[Ivo Fischer|I. Fischer]]), 1977
+* ''Na vlídném slově žádný neprodělá'' ([[Jiří Zmožek|J. Zmožek]] / [[Miroslav Černý (moderátor)|M. Černý]]), 1988
+* ''Nádherný chór (What A Beautiful Noise)'', ([[Neil Diamond|N. Diamond]] / [[Zdeněk Borovec|Z. Borovec]]), 1977
+* ''Náhodou'' ([[Šimon Kalousek|Š. Kalousek]] / [[Martin Švejda|M. Švejda]]), 2002
+* ''Najednou'' ([[Jiří Zmožek|J. Zmožek]] / [[Zdeněk Rytíř|Z. Rytíř]]), s [[Marie Rottrová|Marií Rottrovou]], 1987
+* ''Náladová náruč tvá'' ([[Karel Gott|K. Gott]] / [[Michal Horáček|M. Horáček]]), 1985
+* ''Nalít jsem tvarům tvých blůz'' ([[Jiří Pertl|J. Pertl]] / [[Karel Šíp|K. Šíp]]), 1988
+* ''Nám dovol zpívat'' ([[Karel Gott|K. Gott]], [[Rudolf Rokl|R. Rokl]] / [[Zdeněk Borovec|Z. Borovec]]), 1979
+* ''Nápad (By The Devil/I Was Tempted'') ([[Guy Fletcher|G. Fletcher]] / [[Miroslav Černý (redaktor)|M. Černý]]), 1973
+* ''Nápoj lásky č. 10'' ([[Karel Svoboda|K. Svoboda]] / [[František Ringo Čech|F. R. Čech]]), 1974 
+* ''Narodil se máj'' ([[Ladislav Štaidl|L. Štaidl]] / [[Jiří Štaidl|J. Štaidl]]), 1969, 1987
+* ''Narodil se z lásky k nám'' (traditional / [[František Řebíček|F. Řebíček]]), 1982
+* ''Náruč růží'' ([[Karel Svoboda|K. Svoboda]] / [[František Řebíček|F. Řebíček]]), 1975
+* ''Nás dva hlídá láska (Someone To Watch Over Me)'' ([[George Gershwin|G. Gershwin]] / [[František Řebíček|F. Řebíček]]), 1975
+* ''Náš den jak víno byl'' ([[Petr Iljič Čajkovskij|P. I. Čajkovskij]] / [[Eduard Pergner|E. Pergner]]), 1993
+* ''Náš song'' ([[Karel Svoboda|K. Svoboda]] / [[Karel Šíp|K. Šíp]]) s [[Marcela Holanová|Marcelou Holanovou]], 1987
+* ''Naše první vánoce'' ([[Jiří Vinařický|J. Vinařický]] / [[Miroslav Zikán|M. Zikán]]), 1982
+* ''Návrat'' ([[Ladislav Štaidl|L. Štaidl]], [[Karel Gott|K. Gott]] / [[Václav Hons|V. Hons]]), 1982
+* ''Navrať se k růžím'' ([[Petr Iljič Čajkovskij|P. I. Čajkovskij]] / [[Zdeněk Borovec|Z. Borovec]]), s [[Lucie Bílá|Lucií Bílou]], 1995
+* ''Ne, ne, ne'' ([[Ladislav Štaidl|L. Štaidl]] / [[Jiří Štaidl|J. Štaidl]]), 1974
+* ''Nedokončená'' ([[Pavel Větrovec|P. Větrovec]] / [[Jaroslav Machek|J. Machek]]), 1983
+* ''Nech si krásný sen zdát'' ([[Johannes Brahms|J. Brahms]] / [[Karel Šíp|K. Šíp]]), 2007
+* ''Nech mě spát'' ([[Ladislav Štaidl|L. Štaidl]] / [[Jiří Štaidl|J. Štaidl]]), 1968
+* ''Nechtěl bych (Jambalaya)'' ([[Hank Williams|H. Williams]] / [[Jiří Štaidl|J. Štaidl]]), 1965
+* ''Nejsem, nejsem rád'' ([[Ladislav Štaidl|L. Štaidl]] / [[Jiří Štaidl|J. Štaidl]]), 1970
+* ''Nejsi obyčejná'' ([[Ondřej Soukup|O. Soukup]] / [[Eduard Pergner|E. Pergner]]), 1985
+* ''Nemožem, nemožem'' (traditional), 1972
+* ''Nenech mě za dveřmi stát'' ([[Pavel Větrovec|P. Větrovec]], [[Karel Gott|K. Gott]] / [[Eduard Krečmar|E. Krečmar]]), 1988
+* ''Nesem vám noviny'' (traditional), 1982
+* ''Nesmí se stát'' ([[Ladislav Štaidl|L. Štaidl]] / [[Miroslav Černý (moderátor)|M. Černý]]), s [[Iveta Bartošová|Ivetou Bartošovou]], 1989
+* ''Nestálá láska (Careless Love)'' ([[William C. Handy|W. C. Handy]] / [[Josef Hiršal|J. Hiršal]]), s [[Rudolf Cortés|Rudolfem Cortésem]], 1963
+* ''Nestarej se, kamaráde'' ([[Ladislav Štaidl|L. Štaidl]] / [[Eduard Krečmar|E. Krečmar]]), 1981
+* ''Nevadí (Sag mir wie)'' ([[Udo Jürgens|U. Jürgens]] / [[Jiří Štaidl|J. Štaidl]]), 1967
+* ''Nevěřím náhodám (Answer Me, My Love)'' ([[Gerhard Winkler|G. Winkler]] / [[František Řebíček|F. Řebíček]]), 1975
+* ''Nevím, proč bych nepřiznal'' ([[Jiří Zmožek|J. Zmožek]] / [[František Řebíček|F. Řebíček]]), 1988
+* ''Nevinná'' ([[Ladislav Štaidl|L. Štaidl]] / [[Zdeněk Borovec|Z. Borovec]]), 1976
+* ''Nezapomínám (The Night We Met)'' ([[John Joseph Capek|J. J. Capek]] / [[Eduard Krečmar|E. Krečmar]]), 2004
+* ''Neznámy pár'' ([[Marika Gombitová|M. Gombitová]] / [[Kamil Peteraj|K. Peteraj]]), s [[Marika Gombitová|Marikou Gombitovou]], 1987
+* ''Než bude ráno (Here Comes My Baby)'' ([[Cat Stevens|C. Stevens]] / [[Jiří Štaidl|J. Štaidl]]), 1968
+* ''Než najdu způsob, jak žít sám (Till I Can Make It On My Own)'' ([[Billy Sherrill|B. Sherrill]] / [[Zdeněk Borovec|Z. Borovec]]), 1981
+* ''Nic nás nezastaví (Nothing's Gonna Stop Us Now)'' ([[Albert Hammond|A. Hammond]] / [[Jaroslav Machek|J. Machek]]), s [[Gabriela Gunčíková|Gabrielou Gunčíkovou]], 2012
+* ''Nic než láska tvá (Sugar Baby Love)'' ([[Rubettes]] / [[Zdeněk Borovec|Z. Borovec]]), 1974
+* ''Nikdy nejdeš sám (You'll Never Walk Alone)'' ([[Richard Rodgers|R. Rodgers]] / [[Zdeněk Borovec|Z. Borovec]]), 1975
+* ''Nikomu nezávidím'' ([[Karel Gott|K. Gott]], [[Pavel Větrovec|P. Větrovec]] / [[Miroslav Černý (moderátor)|M. Černý]]), 1986
+* ''Noc je dlouhá a zlá (Are You Lonesome Tonight)'' ([[Lou Handman|L. Handman]] / [[Eduard Krečmar|E. Krečmar]]), 1984
+* ''Noc plná snů (La le lu)'' ([[Heino Gaze|H. Gaze]] / [[Richard Bergman|R. Bergman]]), 2007
+* ''Noční král (Drove All Night)'' ([[Billy Steinberg|B. Steinberg]] / [[Eduard Krečmar|E. Krečmar]]), 1997
+* ''Noe (Das Lied der Arche Noah)'' ([[Hermann Weindorff|H. Weindorff]] / [[Michael Prostějovský|M. Prostějovský]]), 2004
+* ''Nová ofina'' ([[Josef Vobruba|J. Vobruba]] / [[Jindřich Pokorný|J. Pokorný]]), s [[Jana Petrů|Janou Petrů]], 1964
+
+
+== O ==
+* ''O dvě vrátka dál'' – ([[Karel Svoboda|K. Svoboda]] / [[Zdeněk Borovec|Z. Borovec]]), 1978
+* ''O kráse těchto svátků (intermezzo z opery [[Sedlák kavalír]])'' ([[Pietro Mascagni|P. Mascagni]] / [[Zdeněk Borovec|Z. Borovec]]), 1978, 1995
+* ''Ó, jak dávno'' ([[Ladislav Štaidl|L. Štaidl]] / [[Ladislav Štaidl|L. Štaidl]]), 1983
+* ''Ó, mami, dík (Mamy Blue)'' ([[Hubert Giraud|H. Giraud]] / [[Jiří Štaidl|J. Štaidl]]), 1971   
+* ''Ó, Rosemarie'' ([[Rudolf Friml|R. Friml]] / [[Jiří Aplt|J. Aplt]]), 1983
+* ''Obraz žen'' ([[Petr a Pavel ORM|P. a P. ORM]] / [[Pavel Vrba (textař)|P. Vrba]]), 2014
+* ''Oči barvy holubí (Sealed With A Kiss)'' ([[Gary Geld|G. Geld]] / [[Jiří Štaidl|J. Štaidl]]), 1972
+* ''Oči sněhem zaváté'' ([[Jiří Šlitr|J. Šlitr]] / [[Jiří Suchý|J. Suchý]]), 1964, 1987
+* ''Odcházím s vírou (Holding Out For A Hero)'' ([[Jim Steinman|J. Steinman]] / [[Zdeněk Rytíř|Z. Rytíř]]), 2013
+* ''Odnauč se říkat ne'' ([[Ladislav Štaidl|L. Štaidl]] / [[Miroslav Černý (moderátor)|M. Černý]]), 1985 
+* ''Oh, Baby, Baby'' ([[Bohuslav Ondráček|B. Ondráček]] / [[Jan Schneider|J. Schneider)]]), s [[Jitka Zelenková|Jitkou Zelenkovou]], 1984
+* ''Oh, My Darling'' ([[Jindřich Parma|J. Parma]] / [[Pavel Cmíral|P. Cmíral]]), 1992
+* ''Oh, Susannah'' (traditional), 1965
+* ''Oheň v sobě máš (Una notte speciale)'' ([[Alice (italská zpěvačka)|Alice]] / [[Eduard Pergner|E. Pergner]]), 1982
+* ''Oj, Marie'' ([[Eduardo di Capua|E. di Capua]] / [[Zdeněk Borovec|Z. Borovec]]), 1984, 1996
+* ''Oříšek pro Popelku'' ([[Petr Hapka|P. Hapka]] / [[Zdeněk Borovec|Z. Borovec]]), 1967
+* ''Otoč se mnou stránek pár'' ([[Karel Svoboda|K. Svoboda]] / [[Michal Bukovič|M. Bukovič]]), 1980
+* ''Oudolí'' ([[Ferdinand Havlík|F. Havlík]] / [[Jiří Štaidl|J. Štaidl]]), 1965
+
+== P ==
+* ''Pábitelé '' ([[Ladislav Štaidl|L. Štaidl]] / [[Eduard Pergner|E. Pergner]]), 1984
+* ''Paganini'' ([[Karel Svoboda|K. Svoboda]] / [[Zdeněk Borovec|Z. Borovec]]), 1975
+* ''Pánbůh se splet'' ([[Michal David|M. David]], [[František Janeček (producent)|F. Janeček]] / [[Jaroslav Machek|J. Machek]]), s [[Lucie Bílá|Lucií Bílou]], 1997
+* ''Panis Angelicus'' ([[César Franck|C. Franck]]), s [[Ladislav Křížek|Ladislavem Křížkem]], 1993
+* ''Pár vyhaslých náušnic'' ([[Janek Ledecký]]), 1994
+* ''Párty (I'm Believer)'' ([[Neil Diamond|N. Diamond]] / [[Pavel Vrba (textař)|P. Vrba]]), 2013
+* ''Pár havraních copánků (Love Me Tender)'' ([[Ken Darby|K. Darby]] / [[Zbyněk Vavřín|Z. Vavřín]]), 1964, 1977
+* ''Párkrát mlčet (All I Ask Of You)'' ([[Andrew Lloyd Webber|A. L. Webber]] / [[Zdeněk Borovec|Z. Borovec]]), se [[Sylva Schneiderová|Sylvou Schneiderovou]], 1987
+* ''Pastýři, vstávejte'' (traditional), 1982
+* ''Perfektní den'' ([[Michal David|M. David]] / [[Jaroslav Machek|J. Machek]]), 2016
+* ''Píseň jako vánek'' ([[Franz Schubert|F. Schubert]] / [[Zdeněk Borovec|Z. Borovec]]), 1971
+* ''Píseň k pláči'' ([[Ladislav Štaidl|L. Štaidl]] / [[Jiří Štaidl|J. Štaidl]]), 1965
+* ''Píseň na dobrou noc'' ([[Josef Boháč (skladatel)|J. Boháč]] / [[Zdeněk Borovec|Z. Borovec]]), 1974
+* ''Píseň nám kouzlo skrývá'' ([[Jiří Škorpík|J. Škorpík]] / [[Vladimír Kočandrle|V. Kočandrle]]), s [[Lucie Bílá|Lucií Bílou]], 1997
+* ''Píseň pro Káťu'' ([[Karel Svoboda|K. Svoboda]] / [[Jiří Štaidl|J. Štaidl]]), 1969 
+* ''Píseň pro Martinu'' ([[Jaroslav Jakoubek|J. Jakoubek]]), 1963
+* ''Píseň útěchy'' ([[Ladislav Štaidl|L. Štaidl]] / [[Jan Schneider|J. Schneider]]), 1967
+* ''Píseň větrných mlýnů (Happy Birthday Sweet Sixteen)'' ([[Neil Sedaka|N. Sedaka]] / [[Jan Schneider|J. Schneider]]), 1966
+* ''Písně těch dnů'' ([[Karel Gott|K. Gott]], [[Rudolf Rokl|R. Rokl]] / [[Eduard Krečmar|E. Krečmar]]), 1982
+* ''Píšťala a hůl''  ([[Karel Svoboda|K. Svoboda]] / [[Rostislav Černý|R. Černý]]), 1980
+* ''Píšu pět (Walk Right Back)'' ([[Sonny Curtis|S. Curtis]] / [[Eduard Krečmar|E. Krečmar]]), 1980
+* ''Píšu vám (Yesterday)'' ([[John Lennon|J. Lennon]], [[Paul McCartney|P. McCartney]] / [[Zdeněk Borovec|Z. Borovec]] s [[Waldemar Matuška|Waldemarem Matuškou]] a [[Václav Neckář|Václavem Neckářem]], 1977
+* ''Pláč (Cryin)'' ([[Roy Orbison|R. Orbison]] / [[Zdeněk Borovec|Z. Borovec]]), 1981
+* ''Planá růže'' ([[Franz Schubert|F. Schubert]] / [[Jiří Aplt|J. Aplt]]), 1983
+* ''Plavá víla'' ([[Vítězslav Hádl|V. Hádl]] / [[Pavel Žák|P. Žák]]), 1983
+* ''Please, Help Me, I'm Falling'' ([[Don Robertson|D. Robertson]] / [[Hal Blair|H. Blair]]), s [[Eva Pilarová|Evou Pilarovou]], 1965
+* ''Plnoletá'' ([[Joachim Heider|J. Heider]] / [[Eduard Krečmar|E. Krečmar]]), 1983
+* ''Pocit sváteční (Tie A Yellouw Ribbon Round The Ole Oak Tree'' ([[Russell Brown|R. Brown]] / [[Jiří Štaidl|J. Štaidl]]), 1973
+* ''Podrážkám dvou zničených bot'' ([[Karel Gott|K. Gott]], [[Ondřej Soukup|O. Soukup]] / [[Michal Horáček|M. Horáček]]), 1984
+* ''Podezírání (Suspicious Minds)'' ([[Mark James|M. James]] / [[Miroslav Černý (moderátor)|M. Černý]]), 2012
+* ''Podzimní koncert (Concerto d'Automno)'' ([[Camillo Bargoni|C. Bargoni]] / [[František Preisler|F. Preisler]]), 1996
+* ''Pochopíš mý vrásky'' ([[Ladislav Štaidl|L. Štaidl]] / [[Jiří Štaidl|J. Štaidl]]), 1972
+* ''Pojď létat (Come Fly With Me)'' ([[Sammy Cahn|S. Cahn]] / [[Zdeněk Borovec|Z. Borovec]]), 2002
+* ''Pojď, půjdem spát do pohádky'' ([[Antonio Vivaldi|A. Vivaldi]] / [[Eduard Pergner|E. Pergner]]), 1993
+* ''Pokaždé'' ([[Lešek Wronka|L. Wronka]] / [[Petr Šiška|P. Šiška]]), 2002
+* ''Pokoj duši tvé (Io che ho te)'' ([[Nico di Palo|N. de Palo]], [[Vittorio de Scalzi|V. de Scalzi]] / [[Jiří Štaidl|J. Štaidl]]), 1969
+* ''Pondělí'' ([[Michal Malátný|M. Malátný]]), 2014
+* ''Portrét neznámé'' ([[P. W. Bender]] / [[Eduard Krečmar|E. Krečmar]]), 1985
+* ''Posel dobrých zpráv'' ([[Michal David|M. David]] / [[Michal Horáček|M. Horáček]]), 1986
+* ''Poslední noc'' ([[Pavel Vaculík|P. Vaculík]] / [[Lou Fanánek Hagen|L. Fanánek Hagen]]), s [[Lucie Bílá|Lucií Bílou]], 1997
+* ''Poslouchej, Amore (Make Me An Island)'' ([[Albert Hammond|A. Hammond]] / [[Jiří Štaidl|J. Štaidl]]), 1970
+* ''Postavme lásce vítězný sloup'' ([[František Janeček (producent)|F. Janeček]], [[Michal David|M. David]] / [[Jaroslav Machek|J. Machek]]), 1997
+* ''Postilion'' ([[Gene Pedro|G. Pedro]] / [[Zdeněk Rytíř|Z. Rytíř]]), 1973
+* ''Pošli to dál'' ([[Jaromír Klempíř|J. Klempíř]] / [[Jiří Štaidl|J. Štaidl]]), 1966
+* ''Potkal jsem vás (Ja vstretil vas)'' (traditional), 1973
+* ''Potmě jsme všichni stejní'' ([[František Janeček (producent)|F. Janeček]], [[Michal David|M. David]] / [[Jaroslav Machek|J. Machek]]), s [[Lucie Bílá|Lucií Bílou]], 1997
+* ''Poupátko'' ([[Jan Zelenka|J. Zelenka]] / [[Zdeněk Borovec|Z. Borovec]]), 1980
+* ''Poušť'' ([[Alfons Jindra|A. Jindra]] / [[Miroslav Zikán|M. Zikán]]), 1965
+* ''Poutník'' ([[Karel Svoboda|K. Svoboda]] / [[Zdeněk Rytíř|Z. Rytíř]]), 1972
+* ''Pouťový triky'' ([[Karel Svoboda|K. Svoboda]] / [[Jiří Štaidl|J. Štaidl]]), 1968
+* ''Požehnej, Bože můj (There's A Kind Of Hush)'' ([[Les Reed (songwriter)|L. Reed]] / [[Jiří Štaidl|J. Štaidl]]), 1969
+* ''Pravda hlásí svůj návrat (Lascia Ascia Libero Il Cielo)'' ([[Dario Farina|D. Farina]] / [[Karel Šíp|K. Šíp]]), 1990
+* ''Prázdná náruč'' ([[Karel Gott|K. Gott]] / [[Pavel Kopta|P. Kopta]]), 1984
+* ''Prázdný dům (She Wears My Ring)'' ([[Felice Bryant|F. Bryant]], [[Bodleaux Bryant|B. Bryant]] / [[Jiří Štaidl|J. Štaidl]]), 1968
+* ''Prázdný rám (Only You)'' ([[Tony Sadler|T. Sadler]] / [[Michael Prostějovský|M. Prostějovský]]), 2004
+* ''Pretty Woman'' ([[Roy Orbison|R. Orbison]] / [[Miloš Skalka|M. Skalka]]), 1998
+* ''Princezna v hermelínu'' ([[Karel Hašler|K. Hašler]]), s [[Hana Hegerová|Hanou Hegerovou]], 1967
+* ''Promoklý donchuán'' ([[Jindřich Parma|J. Parma]] / [[Pavel Cmíral|P. Cmíral]]), 1990
+* ''Probuzení'' ([[Antonín Gondolán|A. Gondolán]] / [[Pavel Vrba (textař)|P. Vrba]]), 1966
+* ''Proč mám ty blázny rád (What Kind Of Fool Am I)'' ([[Leslie Bricusse|L. Bricusse]] / [[Zdeněk Borovec|Z. Borovec]]), 1975
+* ''Proč odmítá slunce pálit (Wo ist der Sommer geblieben)'' ([[Udo Jürgens|U. Jürgens]] / [[Jiří Štaidl|J. Štaidl]]), 1967
+* ''Proč ptáci zpívají'' ([[Jaromír Klempíř|J. Klempíř]] / [[Jiří Štaidl|J. Štaidl]]), 1968
+* ''Proč se lidi nemaj rádi'' ([[Jiří Šlitr|J. Šlitr]] / [[Jiří Suchý|J. Suchý]]), 1963
+* ''Prostři pro dva stůl'' ([[Karel Svoboda|K. Svoboda]] / [[Zdeněk Borovec|Z. Borovec]]), 1977
+* ''Protože'' ([[Zdeněk Marat|Z. Marat]] / [[Zdeněk Borovec|Z. Borovec]]), 1973
+* ''Při vánočních svíčkách'' ([[Ladislav Štaidl|L. Štaidl]] / [[Zdeněk Borovec|Z. Borovec]]), 1982
+* ''Přichází večer k pastvinám'' ([[Vlastimil Hála|V. Hála]] / [[Zdeněk Borovec|Z. Borovec]]), 1963
+* ''Přijela pouť'' ([[Ladislav Štaidl|L. Štaidl]] / [[Jiří Štaidl|J. Štaidl]]), 1973
+* ''Přísahám'' ([[Janek Ledecký|J. Ledecký]]), 1994
+* ''Přítelkyně má'' ([[Jan Klusák|J. Klusák]] / [[Ester Krumbachová|E. Krumbachová]]), 1967
+* ''Příval pláče (Rawhide)'' ([[Dimitri Tiomkine|D. Tiomkine]] / [[Jiří Štaidl|J. Štaidl]]), 1965
+* ''Ptačí nářečí (Oh, Lonesome Me)'' ([[Don Gibson|D. Gibson]] / [[Jiří Štaidl|J. Štaidl]]), 1965, 1983, 1993
+* ''Půlnoc probdělá'' ([[Ladislav Štaidl|L. Štaidl]], [[Karel Gott|K. Gott]] / [[Miroslav Černý (moderátor)|M. Černý]]), 1982
+* ''Půlnoc v motelu Stop'' ([[Karel Svoboda|K. Svoboda]] / [[Karel Šíp|K. Šíp]]), 1986, 2010
+* ''Půlnoční láska'' ([[Karel Svoboda|K. Svoboda]] / [[Pavel Žák|P. Žák]]), 1980
+* ''Půlnoční návštěvník'' ([[Manuel María Ponce|M. M. Ponce]] / [[Eduard Pergner|E. Pergner]]), 1993
+* ''Purpura'' ([[Jiří Šlitr|J. Šlitr]] / [[Jiří Suchý|J. Suchý]]), 1995
+
+== R ==
+* ''Račte slečno'' ([[Karel Svoboda|K. Svoboda]] / [[František Ringo Čech|F. R. Čech]]), 1975
+* ''Rád bývám chvíli sám'' ([[Ladislav Štaidl|L. Štaidl]] / [[Richard Bergman|R. Bergman]]), 1975 
+* ''Rád vstoupil bych do tvých snů (Girl, You'll Be A Woman Soon)'' ([[Neil Diamond|N. Diamond]] / [[Miroslav Černý (moderátor)|M. Černý]]), 2012
+* ''Ráj bláznů (Visions of Glory)'' ([[Bernd Budden|B. Budden]], [[Johnny Logan|J. Logan]] / [[Jaroslav Machek|J. Machek]]), s [[Eva Urbanová|Evou Urbanovou]], 2001
+* ''Ráj bude náš (Joy to the World)'' ([[Hoyt Axton|H. Axton]] / [[Jiří Štaidl|J. Štaidl]]), 1971
+* ''Rána hlavou do zdi'' ([[Pavel Větrovec|P. Větrovec]], [[Karel Gott|K. Gott]] / [[Eduard Krečmar|E. Krečmar]]), 1990
+* ''Ráno jedu dál'' ([[Ladislav Štaidl|L. Štaidl]] / [[Miroslav Černý (moderátor)|M. Černý]]), 1981
+* ''Recondita armonia'' ([[Giacomo Puccini|G. Puccini]]), 1996
+* ''Rezavý nůž'' ([[Ladislav Štaidl|L. Štaidl]] / [[Rostislav Černý|R. Černý]]), 1965
+* ''Rikitiky, lásko má'' ([[Karel Svoboda|K. Svoboda]] / [[Jaroslav Machek|J. Machek]]), 1979
+* ''Rio de Janeiro'' ([[Karel Svoboda|K. Svoboda]] / [[Jiří Štaidl|J. Štaidl]]), 1971
+* ''Rockový nebe'' ([[Petr a Pavel Orm|P. a P. ORM]] / [[Eduard Krečmar|E. Krečmar]]), 1994
+* ''Rolničky'' ([[James Lord Pierpont|J. L. Pierpont]] / [[Vladimír Dvořák|V. Dvořák]]), 1995
+* ''Rozesmátá'' ([[Rudolf Rokl|R. Rokl]], [[Karel Gott|K. Gott]] / [[Zdeněk Borovec|Z. Borovec]]), 1988
+* ''Roztoulaný den'' ([[Jiří Baur|J. Baur]], [[Vlastimil Hála|V. Hála]] / [[Bohuslav Nádvorník|B. Nádvorník]]), 1964
+* ''Ryba'' ([[Josef Vobruba|J. Vobruba]] / [[Jindřich Pokorný|J. Pokorný]]), 1964
+
+== Ř ==
+* ''Řekněte, odkud vás znám'' ([[Ladislav Štaidl|L. Štaidl]] / [[Jiří Štaidl|J. Štaidl]]), 1971
+
+== S ==
+* ''S láskou (True Love)'' ([[Cole Porter|C. Porter]] / [[Zdeněk Borovec|Z. Borovec]]), s [[Helena Vondráčková|Helenou Vondráčkovou]], 1983
+* ''S láskou jak s létem je ámen'' ([[Vincenzo D'Annibale|V. D'Annibale]] / [[Eduard Pergner|E. Pergner]]), 1996
+* ''S láskou jdu k vám (Caro mio ben)'' ([[Tommaso Giordani|T. Giordani]] / [[Zdeněk Borovec|Z. Borovec]]), 1998
+* ''S muzikou'' ([[Pavel Vaculík|P. Vaculík]] / [[Pavel Vrba (textař)|P. Vrba]]), s [[Lucie Bílá|Lucií Bílou]], 1997
+* ''S ní (She)'' ([[Charles Aznavour|Ch. Aznavour]] / [[Zdeněk Borovec|Z. Borovec]]), 2012
+* ''S tebou vždycky přijde máj ([[Always on My Mind]])'' ([[Wayne Carson Thompson|W. C. Thompson]] / [[Miloš Skalka|M. Skalka]]), 2012
+* ''Sám (Please, Help Me, I'm Falling)'' ([[Don Robertson|D. Robertson]] / [[Ivo Fischer|I. Fischer]]), 1965
+* ''Sama řekla, že ho nemá ráda'' ([[Bohuslav Ondráček|B. Ondráček]] / [[Pavel Kohout (spisovatel)|P. Kohout]]), 1963
+* ''Samotář'' ([[Rudolf Rokl|R. Rokl]], [[Karel Gott|K. Gott]] / [[Eduard Pergner|E. Pergner]]), 1984
+* ''Sáně'' ([[Jiří Šlitr|J. Šlitr]] / [[Jiří Suchý|J. Suchý]]), 1963
+* ''Santa Lucia'' (traditional / [[Zdeněk Borovec|Z. Borovec]]), 1966, 1976
+* ''Scarlett'' ([[Pavel Fořt (hudebník)|P. Fořt]], [[Pavel Větrovec|P. Větrovec]] / [[Pavel Vrba (textař)|P. Vrba]]), 1992
+* ''Se mnou vítr rád si brouká (One Way Wind)'' ([[Arnold Mühren|A. Mühren]] / [[František Řebíček|F. Řebíček]]), 1978
+* ''Sedmikráska'' ([[Bedřich Nikodém|B. Nikodém]] / [[Jaromír Hořec|J. Hořec]]), 1964
+* ''Sen o vánocích (The Poet And I)'' ([[Frank Mills|F. Mills]] / [[Zdeněk Borovec|Z. Borovec]]), 1981
+* ''Sen o věku nádherném (Cent mille chansons)'' ([[Michel Magne|M. Magne]] / [[Zdeněk Borovec|Z. Borovec]]), 1991
+* ''Sen v nás zůstává (Con te partiro)'' ([[Lucio Quarantotto|L. Quarantotto]] / [[Zdeněk Borovec|Z. Borovec]]), s [[Lucie Bílá|Lucií Bílou]], 1997
+* ''Sentiment (Try A Little Tenderness)'' ([[James Campbell]] / [[Pavel Vrba (textař)|P. Vrba]]), 2011
+* ''Sláva glory'' (traditional / [[Eduard Krečmar|E. Krečmar]]), 1995
+* ''Slunce a já'' ([[Ladislav Štaidl|L. Štaidl]] / [[Jiří Štaidl|J. Štaidl]]), 1968
+* ''Slunce k horám klopýtá'' ([[Ladislav Štaidl|L. Štaidl]] / [[Jiří Štaidl|J. Štaidl]]), 1972
+* ''Slyším hlas z rádia'' ([[Pavel Větrovec|P. Větrovec]], [[Karel Gott|K. Gott]] / [[Janek Ledecký|J. Ledecký]]), 1992
+* ''Smejvám lásku'' ([[Ladislav Štaidl|L. Štaidl]] / [[Eduard Krečmar|E. Krečmar]]), s [[Karel Hála|Karlem Hálou]], 1966
+* ''Smích (Smile)'' ([[Charlie Chaplin|Ch. Chaplin]] / [[Jiří Suchý|J. Suchý]]), 1975
+* ''Smíchovské blues'' ([[Rudolf Rokl|R. Rokl]], [[Karel Gott|K. Gott]] / [[Zdeněk Rytíř|Z. Rytíř]]), 1981
+* ''Smůla smůlu má'' ([[Ladislav Štaidl|L. Štaidl]] / [[František Ringo Čech|F. R. Čech]]), 1976
+* ''[[Smutná neděle|Smutná neděle (Szomorú vasárnap)]]'' ([[Rezsö Seress|R. Seress]] / [[Jiří Štaidl|J. Štaidl]]), 1973
+* ''Snowdrifteyes (Oči sněhem zaváté)'' ([[Jiří Šlitr|J. Šlitr]] / [[Jan Koplowitz|J. Koplowitz]]), 1965
+* ''Snů plný krám'' ([[Ladislav Štaidl|L. Štaidl]], [[Karel Gott|K. Gott]] / [[Jiří Aplt|J. Aplt]]), 1978
+* ''Sny bláznivý (Proud Mary)'' ([[John Fogerty|J. Fogerty]] / [[Jiří Štaidl|J. Štaidl]]), 1970
+* ''So Far'' ([[Jan Rychlík (skladatel)|J. Rychlík]]), 1964
+* ''Sochy v dešti (Cryin' in the Rain)'' ([[Carole King|C. King]] / [[Zdeněk Borovec|Z. Borovec]]), 2012
+* ''Solitér (Solitaire)'' ([[Charles Aznavour|Ch. Aznavour]] / [[Pavel Vrba (textař)|P. Vrba]]), 2012
+* ''Sólo'' ([[Pavol Habera|P. Habera]] / [[Janek Ledecký|J. Ledecký]]), 1992
+* ''Sólo pro motýla'' ([[Camille Saint-Saëns|C. Saint-Saëns]] / [[Zdeněk Borovec|Z. Borovec]]), 1993
+* ''Somewhere'' ([[Leonard Bernstein|L. Bernstein]] / [[Stephen Sondheim|S. Sondheim]]), 1964
+* ''Sonáta C dur pro klavír'' ([[Wolfgang Amadeus Mozart|W. A. Mozart]]), s [[Helena Vondráčková|Helenou Vondráčkovou]], 1976
+* ''Song hrál nám ten ďábel saxofon (The Last of the World)'' ([[Claude Michel Schönberg|C. M. Schönberg]] / [[Zdeněk Borovec|Z. Borovec]], s [[Helena Vondráčková|Helenou Vondráčkovou]], 1993
+* ''Song má se hrát (I Write The Songs)'' ([[Bruce Arthur Johnston|B. A. Johnston]] / [[Zdeněk Borovec|Z. Borovec]]), 2012
+* ''Sonnyboy'' ([[Buddy DeSylva|B. DeSylva]] / [[Pavel Vrba (textař)|P. Vrba]]), 1975
+* ''Souznění'' ([[Karel Svoboda|K. Svoboda]] / [[Karel Šíp|K. Šíp]]), s [[Daniel Hůlka|Danielem Hůlkou]], 1998
+* ''Spánku, sen mi dej (All I Need Is Time)'' ([[George W. Reneau|G. W. Reneau]] / [[Miroslav Černý (moderátor)|M. Černý]]), 1974
+* ''Spím'' ([[Jiří Šlitr|J. Šlitr]] / [[Jiří Suchý|J. Suchý]]), 1964
+* ''Správná noc'' ([[Karel Svoboda|K. Svoboda]] / [[Karel Šíp|K. Šíp]]), 1988
+* ''Správný tón (Eres tu)'' ([[Juan Carlos Calderon|J. C. Calderon]] / [[Eduard Krečmar|E. Krečmar]]), 1977 
+* ''Srdce jako kámen (Crossfire)'' ([[Jerry Careaga|J. Careaga]] / [[Zdeněk Borovec|Z. Borovec]]), 1977
+* ''[[Srdce nehasnou]]'' (Richard Krajčo/Petr Harazin), 2019
+* ''Srdce trubadúra'' ([[Jaromír Klempíř|J. Klempíř]] / [[Jiří Štaidl|J. Štaidl]]), 1969
+* ''Srdce tvé'' ([[Karel Gott|K. Gott]] / [[Zdeněk Borovec|Z. Borovec]]), 1964
+* ''Srdcový král'' ([[Karel Gott|K. Gott]] / [[Pavel Kopta|P. Kopta]]), 1977
+* ''Staň se růží'' ([[Pavel Vaculík|P. Vaculík]] / [[Eduard Krečmar|E. Krečmar]]), 1988
+* ''Stará píseň znovu zní'' ([[Ladislav Štaidl|L. Štaidl]] / [[Miroslav Černý (moderátor)|M. Černý]]), 1980
+* ''Starý mlýn'' ([[Kamil Běhounek|K. Běhounek]] / [[Karel Kozel|K. Kozel]]), 1965
+* ''Stěnka Razin'' (traditional), 1974
+* ''Stín'' ([[Mojmír Balling|M. Balling]] / [[Ivo Fischer|I. Fischer]]), 1965
+* ''Stíny dvou'' ([[Šimon Kalousek|Š. Kalousek]] / [[Martin Švejda|M. Švejda]]), 2002
+* ''Sto lásek měj'' ([[Jiří Škorpík|J. Škorpík]] / [[Karel Šíp|K. Šíp]]), 2004
+* ''Stokrát chválím čas (Sometimes When We Touch)'' ([[Daniel Grafton Hill|D. G. Hill]] / [[Zdeněk Borovec|Z. Borovec]]), 1978
+* ''Strahováček'' ([[Karel Hašler|K. Hašler]]), s [[Pavlína Filipovská|Pavlínou Filipovskou]], 1964
+* ''Stůj za mnou (Stand By Me)'' ([[Mike Stoller|M. Stoller]] / [[Pavel Vrba (textař)|P. Vrba]]), 1998
+* ''Stvořená k lichotkám'' ([[Michal David|M. David]] / [[Zdeněk Borovec|Z. Borovec]]), 1997
+* ''Svatební samba (Wedding Samba)'' ([[Abraham Ellstein|A. Ellstein]]), 1973
+* ''Sváteční čas'' ([[Johann Sebastian Bach|J. S. Bach]] / [[Pavel Vrba (textař)|P. Vrba]]), s [[Eva Urbanová|Evou Urbanovou]], 1998
+* ''Svátek lásky'' ([[Karel Gott|K. Gott]], [[Pavel Větrovec|P. Větrovec]] / [[Eduard Krečmar|E. Krečmar]]), s [[Pavla Forest|Pavlou Forstovou]], 1990
+* ''Svátek máš'' ([[Ladislav Štaidl|L. Štaidl]]), 1982
+* ''Svátek svátků'' ([[Georg Friedrich Händel|G. F. Händel]] / [[Jaroslav Machek|J. Machek]]), s [[Eva Urbanová|Evou Urbanovou]], 1998
+* ''Své srdce tobě dám'' ([[Franz Lehár|F. Lehár]] / [[Jiří Aplt|J. Aplt]]), 1983
+* ''Svět jak víno (Dann erklingt Musik)'' ([[Al Vissond|A. Vissond]] / [[František Horáček|F. Horáček]]), 1987
+* ''Svět je báječnej kout (What a Wonderful World)'' ([[Bob Thiele|B. Thiele]] / [[Eduard Krečmar|E. Krečmar]]), 
+* ''Svět je dlouhá ulice'' ([[Ladislav Štaidl|L. Štaidl]] / [[Eduard Pergner|E. Pergner]]), s [[Dara Rolins|Darinou Rolincovou]], 1986
+* ''Svět je prostě nekonečná pláž'' ([[Karel Svoboda|K. Svoboda]] / [[Petr Šiška|P. Šiška]]), s [[Martina Balogová|Martinou Balogovou]], 2004
+* ''Svět je svět, ne ráj (Couldn't Say Goodbye)'' ([[Albert Hammond|A. Hammond]] / [[Zdeněk Borovec|Z. Borovec]]), 1992
+* ''Svet lásku má'' ([[Pavol Habera|P. Habera]] / [[Daniel Hevier|D. Hevier]]), s [[Pavol Habera|P. Haberou]] a [[Peter Dvorský|P. Dvorským]], 1996
+* ''Svět má ty chvíle rád'' ([[Ladislav Štaidl|L. Štaidl]] / [[Jana Rolincová|J. Rolincová]]), 1988
+* ''Svět se točí dál'' ([[Ladislav Štaidl|L. Štaidl]] / [[Miroslav Černý (moderátor)|M. Černý]]), 1978
+* ''Svět stál (Tonight I Celebrate My Love For You)'' ([[Michael W. Masser|M. Masser]] / [[Eduard Pergner|E. Pergner]]), s [[Jitka Zelenková|Jitkou Zelenkovou]], 1984
+* ''Svlékám pouta svá'' ([[Karel Vágner|K. Vágner]] / [[Zdeněk Borovec|Z. Borovec]]), 1989
+* ''Svoji lásku zatýkám (Puppy Love)'' ([[Paul Anka|P. Anka]] / [[Rostislav Černý|R. Černý]]), 1965
+* ''Svým láskám stloukám kříž'' ([[Zdeněk Barták (skladatel)|Z. Barták]] / [[Karel Šíp|K. Šíp]]), 1994
+
+== Š ==
+* ''Šampaňská árie (Trinke, Liebchen, trinke schnell)'' ([[Johann Strauss mladší|J. Strauss ml.]] / [[Jiří Aplt|J. Aplt]]), 1988
+* ''Šarazán (Sharazan)'' ([[Ciro Dammicco|C. Dammicco]] / [[Eduard Krečmar|E. Krečmar]]), s [[Jitka Zelenková|Jitkou Zelenkovou]], 1984
+* ''Šel tudy, měl dudy'' (traditional), 1975
+* ''Škoda lásky'' ([[Jaromír Vejvoda|J. Vejvoda]] / [[Vašek Zeman|V. Zeman]]), 1967, 1979, 1998
+* ''Šohaju, šohaju'' (traditional), 2010
+* ''Šťastná hvězda'' ([[Michal David|M. David]], [[František Janeček (producent)|F. Janeček]] / [[Vladimír Kočandrle ml.|V. Kočandrle]]), s [[Lucie Bílá|Lucií Bílou]], 1997
+* ''Štědrý večer nastal'' (traditional), 1982
+
+== T ==
+* ''Tady jsem (Why Me Lord)'' ([[Kris Kristofferson|K. Kristofferson]] / [[Zdeněk Borovec|Z. Borovec]]), 1981
+* ''Tajga'' (traditional), 1973
+* ''Tajná láska (Secret Love)'' ([[Sammy Fain|S. Fain]] / [[Jindřich Pokorný|J. Pokorný]]), 1965
+* ''Tak abyste věděla'' ([[Jiří Šlitr|J. Šlitr]] / [[Jiří Suchý|J. Suchý]]) s [[Waldemar Matuška|Waldemarem Matuškou]] a [[Hana Hegerová|Hanou Hegerovou]], 1964
+* ''Tak divně mlád'' ([[Bedřich Nikodém|B. Nikodém]] / [[Zdeněk Borovec|Z. Borovec]]), 1967
+* ''Tak do toho (I'm the Leader of the Gang)'' ([[Gary Glitter|G. Glitter]] / [[František Ringo Čech|F. R. Čech]]), 1974
+* ''Tak jdem'' ([[Michal David|M. David]] / [[Jana Rolincová|J. Rolincová]]), s [[Helena Vondráčková|Helenou Vondráčkovou]], 2002
+* ''Tak málo'' ([[Bohuslav Ondráček|B. Ondráček]] / [[Vladimír Poštulka|V. Poštulka]]), 1973
+* ''Tak rád (I'm Yours)'' ([[Robert Mellin|R. Mellin]] / [[Vladimír Dvořák|V. Dvořák]]), 1966
+* ''Tak zůstaň (It's Over)'' ([[Roy Orbison|R. Orbison]] / [[Jiří Štaidl|J. Štaidl]]), 1965
+* ''Takú sem já frajárenku dostal'' (traditional), 2010
+* ''Taky se mnou trable jdou(Don't Tell Me Your Troubles)'' ([[Don Gibson|D. Gibson]] / [[Zdeněk Rytíř|Z. Rytíř]]), 1982
+* ''Tam, kam chodí vítr spát'' ([[Ivan Kotrč|I. Kotrč]] / [[Zbyněk Vavřín|Z. Vavřín]]), 1965
+* ''Tam, kde šumí proud'' ([[Zdeněk Marat|Z. Marat]] / [[Vladimír Dvořák|V. Dvořák]]), 1963
+* ''Tam v dálce v městě Betlémě (Oh, Little Town of Bethlehem)'' ([[Lewis Redner|L. Redner]] / [[Eduard Krečmar|E. Krečmar]]), 1995
+* ''Tam za vodou v rákosí'' ([[Karel Mareš (skladatel)|K. Mareš]] / [[Jiří Štaidl|J. Štaidl]]), s [[Marie Rottrová|Marií Rottrovou]], 1976
+* ''Tancuj, Karolíno'' ([[Lešek Wronka|L. Wronka]] / [[Petr Šiška|P. Šiška]]), 2002
+* ''Tango miracoloso'' ([[Ondřej Soukup|O. Soukup]] / [[Gabriela Osvaldová|G. Osvaldová]]), 1990
+* ''Tante cose da veder'' ([[Petr Hapka|P. Hapka]] / [[Michal Horáček|M. Horáček]]), 2012
+*Ta pravá ([[Marek Ztracený|M. Ztracený]]), 2018
+* ''Táto, zůstaň aspoň do vánoc (Daddy, Don't You Walk So Fast)'' ([[Geoffrey Stephens|G. Stephens]], [[Peter Robin Callander|P. R. Callander]] / [[Jiří Štaidl|J. Štaidl]]), 1972
+* ''Tátovi'' ([[Pavel Vaculík|P. Vaculík]] / [[Eduard Pergner|E. Pergner]]), 1994
+* ''Tebe pod kůží mám (I've Got You Under My Skin)'' ([[Cole Porter|C. Porter]] / [[Eduard Krečmar|E. Krečmar]]), 2003
+* ''Teče voda k moři'' ([[Jaromír Vomáčka|J. Vomáčka]] / [[Pavel Kopta|P. Kopta]]), 1964
+* ''Teče voda, teče'' (traditional), 2010
+* ''Teď nemám čas, možná jindy (I'm Comin' Home, Cindy)'' ([[Trini Lopez|T. Lopez]] / [[Jiří Štaidl|J. Štaidl]]), 1969
+* ''Teď růže k vám jdu krást (Goodbye My Love Goodbye)'' ([[Mario Panas|M. Panas]] / [[Zdeněk Borovec|Z. Borovec]]), 1974
+* ''Teď už víš, že jsem to já (Kiss And Say Goodbye)'' ([[Winfred Lorenzo Lovett|W. L. Lovett]] / [[Zdeněk Rytíř|Z. Rytíř]]), 1977
+* ''Téma na román'' ([[Karel Svoboda|K. Svoboda]] / [[Karel Šíp|K. Šíp]]), 1991
+* ''Ten dům, co zůstal sám'' ([[Ladislav Štaidl|L. Štaidl]], [[Karel Gott|K. Gott]] / [[Zdeněk Borovec|Z. Borovec]]), 1981
+* ''Ten pán, co tančí s vámi (I'm in The Mood For Love)'' ([[Jimmy McHugh|J. McHugh]] / [[Zdeněk Borovec|Z. Borovec]]), 2011
+* ''Ten ráj bude náš'' ([[Ladislav Štaidl|L. Štaidl]] / [[Zdeněk Rytíř|Z. Rytíř]]), 1977
+* ''Tereza'' ([[Jiří Šlitr|J. Šlitr]] / [[Jiří Suchý|J. Suchý]]), s [[Waldemar Matuška|Waldemarem Matuškou]], 1964
+* ''Text k téhle písni jsem psal já'' ([[Joachim Heider|J. Heider]] / [[Karel Gott|K. Gott]]), 1983
+* ''That Lucky Old Sun'' (traditional), 1964
+* ''The First Noël'' (traditional), 1969
+* ''The Great Pretender'' ([[Buck Ram|B. Ram]]), 1998
+* ''The Nearness Of You'' ([[Hoagy Carmichael|H. Carmichael]]), 1965
+* ''The Trail To Mexico'' (traditional), 1965
+* ''This World is Magic'' ([[DJ BoBo]]), 1998
+* ''Thousand Windows'' ([[Udo Jürgens|U. Jürgens]] / [[Norman Newell|N. Newell]]), 1968
+* ''Tichá noc (Stille Nacht)'' ([[Franz Xaver Gruber|F. X. Gruber]]), 1969, 1998, 2002
+* ''Tichý kout (Somewhere)'' ([[Leonard Bernstein|L. Bernstein]] / [[Jan Schneider]]), 1965
+* ''Tichý pavilón'' ([[Franz Lehár|F. Lehár]] / [[Jiří Aplt|J. Aplt]]), s [[Pavla Břínková|Pavlou Břínkovou]], 1983
+* ''Tiritomba'' (traditional), 1973
+* ''Tiše, maličký'' ([[Jan Obermayer|J. Obermayer]] / [[Jiří Havelka|J. Havelka]]), 1972
+* ''Tiše den zhasíná (In the Still of the Night)'' ([[Cole Porter|C. Porter]] / [[Vlastimil Hála|V. Hála]]), 1988
+* ''To byl vám den (I Just Called To Say I Love You)'' ([[Stevie Wonder|S. Wonder]] / [[Václav Hons|V. Hons]]), 1984
+* ''To byla noc (Oh, What A Night)'' ([[Robert Gaudio|R. Gaudio]] / [[Jiřina Fikejzová|J. Fikejzová]]), 2013
+* ''To je hezky'' ([[Jaroslav Uhlíř|J. Uhlíř]] / [[Zdeněk Svěrák|Z. Svěrák]]), 2007
+* ''To jenom láska zastaví čas'' ([[Petr Kolář (zpěvák)|P. Kolář]], [[Miloš Dodo Doležal|M. D. Doležal]] / [[Petr Kolář (zpěvák)|P. Kolář]]) s [[Petr Kolář (zpěvák)|Petrem Kolářem]], 2015
+* ''To jsou fámy (We Don't Talk Anymore)'' ([[Alan Tarney|A. Tarney]] / [[Eduard Krečmar|E. Krečmar]]), 1980
+* ''To léto (I Like It)'' ([[Mitch Murray|M. Murray]] / [[Eduard Krečmar|E. Krečmar]]), 1964
+* ''To musím zvládnout sám'' ([[Jiří Zmožek|J. Zmožek]] / [[Zdeněk Rytíř|Z. Rytíř]]), 1984
+* ''To se ti zdálo'' ([[Angelo Michajlov|A. Michajlov]] / [[Zdeněk Rytíř|Z. Rytíř]]), 1975
+* ''To stárnutí zrádné'' ([[Michal David|M. David]] / [[Zdeněk Borovec|Z. Borovec]]), s [[Michal David|Michalem Davidem]], 1999
+* ''To vám byl dobrý rok (Da quando non ci sei)'' ([[Dario Baldan Bembo|D. B. Bembo]] / [[Miroslav Černý (moderátor)|M. Černý]]), 1985
+* ''Točte se pardálové'' (traditional) s [[Josef Zíma|Josefem Zímou]], 1963
+* ''Toulky (Po' Folks)'' ([[Dick Monda|D. Monda]] / [[Eduard Krečmar|E. Krečmar]]), s [[Jana Robbová|Janou Robbovou]], 1972
+* ''Toužím'' ([[Ernesto de Curtis|E. de Curtis]] / [[Eduard Pergner|E. Pergner]]), 1996
+* ''Trezor'' ([[Ladislav Štaidl|L. Štaidl]], [[Karel Gott|K. Gott]] / [[Rostislav Černý|R. Černý]]), 1965
+* ''Třicet stupňů ve stínu'' ([[Jindřich Šidla|J. Šidla]] / [[Karel Jelínek|K. Jelínek]]), 1962
+* ''Tu krásu nelze popsat slovy'' ([[Jiří Šlitr|J. Šlitr]] / [[Jiří Suchý|J. Suchý]]), s [[Pavel Sedláček|Pavlem Sedláčkem]], 1963
+* ''Turn On Your Love Light'' ([[Joseph Wade Scott|J. W. Scott]] / [[Deadric Malone|D. Malone]]), 1969
+* ''Tvůj krok zní'' ([[Alfons Jindra|A. Jindra]] / [[Jaroslav Moravec|J. Moravec]]), 2011
+* ''Tvůj stín se má'' ([[Ladislav Štaidl|L. Štaidl]] / [[Zdeněk Rytíř|Z. Rytíř]]), 1975
+* ''Tvůj stromek (Blue Christmas)'' ([[Billy Hayes|B. Hayes]] / [[Miroslav Černý (moderátor)|M. Černý]]), 1982
+* ''Tvůj syn spí'' ([[Robert Schumann|R. Schumann]] / [[Eduard Pergner|E. Pergner]]), 1993
+* ''Ty jsi moje slunce'' ([[Franz Lehár|F. Lehár]] / [[Jiří Aplt|J. Aplt]]), 1983
+* ''Ty se mi zdáš'' ([[Pavel Větrovec|P. Větrovec]] / [[Zdeněk Borovec|Z. Borovec]]), 1986
+* ''Ty vínko dej mi, sklínko má (Funiculì, Funiculà)'' ([[Luigi Denza|L. Denza]] / [[Zdeněk Borovec|Z. Borovec]]), 1979
+* ''Ty jsi můj zvláštní anděl (You Are My Special Angel)'' ([[Jimmy Duncan|J. Duncan]] / [[Pavel Vrba (textař)|P. Vrba]]), 2011
+* ''Tys láska má'' ([[Edvard Grieg|E. Grieg]] / [[Ladislav Horák|L. Horák]]), 1983
+
+== U ==
+* ''U nás jaro nekončí'' ([[Ludvík Podéšť|L. Podéšť]] / [[Vlastimil Pantůček|V. Pantůček]]), 1964
+* ''U vorot'' (traditional), 1977
+* ''Ukolébavka'' ([[Wolfgang Amadeus Mozart|W. A. Mozart]] / [[Zdeněk Borovec|Z. Borovec]]), 1978
+* ''Úsměv tvůj byl tajným písmem (Broken Down In Tiny Pieces)'' ([[John Thomas Adrian|J. T. Adrian]] / [[Zdeněk Borovec|Z. Borovec]]), 1977
+* ''Úterý'' ([[Sláva Kunst|S. Kunst]] / [[Jiří Robert Pick|J. R. Pick]]), 1964
+* ''Už dávno dal jsem Ti klíč (Some Broken Hearts Never Mend)'' ([[Wayland Holyfield|W. Holyfield]] / [[Eduard Krečmar|E. Krečmar]]), 1981
+* ''Už mě leccos neláká'' ([[Jaromír Klempíř|J. Klempíř]] / [[Jiří Štaidl|J. Štaidl]]), s [[Karel Hála|Karlem Hálou]], 1966
+* ''Už pohřbili mě stokrát'' ([[Karel Gott|K. Gott]] / [[Michal Horáček|M. Horáček]]), 2004
+* ''Už se stmívá'' ([[Jaromír Vomáčka|J. Vomáčka]] / [[Jaromír Čermák|J. Čermák]]), 1962
+* ''Už tě má'' ([[Petr a Pavel Orm|P. a P. ORM]] / [[Eva Ledecká|E. Ledecká]]), 1994
+* ''Už víckrát viděl jsem já tu tvář (First Time Ever I Saw Your Face)'' ([[Ewan Mac-Coll|E. Mac-Coll]] / [[Zdeněk Borovec|Z. Borovec]]), 1973
+* ''Už vítr to svál'' ([[Karel Gott|K. Gott]] / [[Eduard Krečmar|E. Krečmar]]), 2002
+* ''Už z hor zní zvon ([[Amazing Grace]])'' (traditional / [[Zdeněk Borovec|Z. Borovec]]), 1973
+* ''Už záhy přijde vzácná noc (Der Heiland ist geboren)'' (traditional / [[Zdeněk Borovec|Z. Borovec]]), 1981
+
+== V ==
+* ''V Betlémě včetně mě jásají'' ([[Martin Luther|M. Luther]] / [[Karel Šíp|K. Šíp]]), 1994
+* ''V kartách já smůlu mám'' ([[Ladislav Štaidl|L. Štaidl]] / [[Daniel Hanč|D. Hanč]]), 1974
+* ''V máji (Il mondo)'' ([[Jimmy Fontana|J. Fontana]] / [[Jiří Štaidl|J. Štaidl]]), 1966
+* ''V opeře'' ([[Jiří Šlitr|J. Šlitr]] / [[Jiří Suchý|J. Suchý]]), s [[Hana Hegerová|Hanou Hegerovou]] a [[Waldemar Matuška|Waldemarem Matuškou]], 1964
+* ''V pravou chvíli řekni stop (Footloose)'' ([[Kenneth Clark Loggins|K. C. Loggins]] / [[Eduard Pergner|E. Pergner]]), 2013
+* ''V příštím životě (Air)'' ([[Johann Sebastian Bach|J. S. Bach]] / [[Eduard Pergner|E. Pergner]]), 1993
+* ''V rytmu samby'' ([[Filip Gondolán|F. Gondolán]] / [[Eduard Krečmar|E. Krečmar]]), 2004
+* ''V té jarní chvíli'' ([[E. A Mario]] / [[Eduard Pergner|E. Pergner]]), 1996
+* ''V té noci zázračné'' (traditional / [[Jiří Aplt|J. Aplt]]), 1981
+* ''V zahradě snů'' ([[John Capek|J. Capek]] / [[Miroslav Kuželka|M. Kuželka]]), 2002
+* ''V zákoutí tvých promenád'' ([[Lešek Wronka|L. Wronka]] / [[Petr Šiška|P. Šiška]]), 2002
+* ''V září (Stop Me If You've Heard It All Before)'' ([[Benjamin Findon|B. Findon]], [[Michael Stanley Myers|M. S. Myers]] / [[Václav Babula|V. Babula]]), 1977
+* ''Vánoční strom'' ([[Karel Svoboda|K. Svoboda]] / [[Zdeněk Borovec|Z. Borovec]]), 1974
+* ''Varšavský koncert'' ([[Richard Addinsell|R. Addinsell]] / [[Zdeněk Borovec|Z. Borovec]]), 1975
+* ''Vás ženy jsem líbal rád'' ([[Franz Lehár|F. Lehár]] / [[Jiří Aplt|J. Aplt]]), 1983
+* ''Vázat se, stoupat'' ([[Oskar Petr|O. Petr]]), 2004
+* ''Vážka zimomřivá'' ([[Karel Svoboda|K. Svoboda]] / [[Jiří Suchý|J. Suchý]]), 1976
+* ''Včelka Mája (Biene Maja)'' ([[Karel Svoboda|K. Svoboda]] / [[Zdeněk Rytíř|Z. Rytíř]]), 1985
+* ''Vdávali černovlásku'' ([[Jan Blahoslav Zelenka|J. Zelenka]] / [[Zdeněk Borovec|Z. Borovec]]), 1982
+* ''Ve tvých zátokách'' ([[Lešek Wronka|L. Wronka]] / [[Petr Šiška|P. Šiška]]), 2002
+* ''Věci blízké mému srdci'' ([[Fryderyk Chopin|F. Chopin]] / [[Eduard Pergner|E. Pergner]]), 1993
+* ''Večerní chorál'' ([[Jaromír Klempíř|J. Klempíř]] / [[Jiří Štaidl|J. Štaidl]]), 1967
+* ''Věčný laik'' ([[Ondřej Soukup|O. Soukup]], [[Karel Gott|K. Gott]] / [[Eduard Krečmar|E. Krečmar]]), 1983
+* ''Veď mě dál, cesto má (Take Me Home, Country Roads)'' ([[John Denver|J. Denver]] / [[Vladimír Poštulka|V. Poštulka]]), 1981
+* ''Velká jízda'' ([[Karel Gott|K. Gott]], [[Rudolf Rokl|R. Rokl]] / [[Jaroslav Machek|J. Machek]]), 1983
+* ''Velký rváč'' ([[Rudolf Rokl|R. Rokl]], [[Karel Gott|K. Gott]] / [[Zdeněk Rytíř|Z. Rytíř]]), 1984
+* ''Věrné milování'' ([[Bedřich Smetana|B. Smetana]] / [[Karel Sabina|K. Sabina]]), s [[Dara Rolins|Darinou Rolincovou]], 1997
+* ''Víc (Ti guardero nel cuore)'' ([[Riz Ortolani|R. Ortolani]] / [[Zdeněk Borovec|Z. Borovec]]), 1975
+* ''Víc než lásku (I Can't Give You Anything But Love Baby)'' ([[Jimmy McHugh|J. McHugh]], [[Dorothy Fields|D. Fields]] / [[Zdeněk Borovec|Z. Borovec]]), 1964
+* ''Vieni sul mar'' ([[Franco Califano|F. Califano]]), 1973
+* ''Vím, jak dá se žít'' ([[Šimon Kalousek|Š. Kalousek]] / [[Martin Švejda|M. Švejda]]), 2002
+* ''Vím, proč mám život rád'' ([[Johann Strauss mladší|J. Strauss ml.]] / [[Jiří Aplt|J. Aplt]]), 1983
+* ''Vím, že je to láskou (I Believe I'm Gonna Love You)'' ([[Harry Lloyd|H. Lloyd]] / [[Eduard Krečmar|E. Krečmar]]), 1975
+* ''Vincent van Gogh (Vincent)'' ([[Don McLean|D. Mclean]] / [[Zdeněk Rytíř|Z. Rytíř]]), 2012
+* ''Vítám vás k nám'' ([[Ladislav Štaidl|L. Štaidl]] / [[Zdeněk Rytíř|Z. Rytíř]]), 1974
+* ''Vítám vítr v údolí (Tausend Fenster)'' ([[Udo Jürgens|U. Jürgens]] / [[Jiří Štaidl|J. Štaidl]]), 1968
+* ''Vítr mi odvál těch mých pár let'' ([[Ladislav Štaidl|L. Štaidl]] / [[Jiří Anderle|J. Anderle]]), 1974
+* ''Vítr v zádech mám'' ([[Ladislav Štaidl|L. Štaidl]] / [[Michal Bukovič|M. Bukovič]]), 1981
+* ''Vivere'' ([[Cesare Andrea Bixio|C. A. Bixio]]), s [[Peter Dvorský|Petrem Dvorským]], 2001
+* ''Vlak'' ([[Jiří Schelinger|J. Schelinger]] / [[František Ringo Čech|F. R. Čech]]), 1975
+* ''Vlaštovčí hnízda'' ([[Vítězslav Hádl|V. Hádl]] / [[Hana Zagorová|H. Zagorová]]), s [[Hana Zagorová|Hanou Zagorovou]] a [[Vlastimil Harapes|Vlastimilem Harapesem]], 1987
+* ''Vltava'' ([[Bedřich Smetana|B. Smetana]] / [[Jiří Štaidl|J. Štaidl]]), 1971
+* ''Vnímám to rád'' ([[Karel Svoboda|K. Svoboda]] / [[Karel Šíp|K. Šíp]]), 1994
+* ''Vodopád'' ([[Karel Svoboda|K. Svoboda]] / [[Jiří Suchý|J. Suchý]]), 1977
+* ''Volný den'' ([[Karel Svoboda|K. Svoboda]] / [[Zdeněk Rytíř|Z. Rytíř]]), 1977
+* ''Vrásky z lásky'' ([[Karel Gott|K. Gott]] / [[Michal Bukovič|M. Bukovič]]), 1984
+* ''Vrať se do Sorrenta ([[Torna a Surriento]])'' ([[Ernesto de Curtis|E. de Curtis]] / [[Zdeněk Borovec|Z. Borovec]]), 1965, 1996
+* ''Vstávej'' ([[Vítězslav Hádl|V. Hádl]] / [[Michal Bukovič|M. Bukovič]]), 1984
+* ''Vstávej ty tuláku (City of New Orleans)'' ([[Steve Goodman|S. Goodman]] / [[Zdeněk Rytíř|Z. Rytíř]]), 1981
+* ''Vstříc náhodám (Sweet Caroline)'' ([[Neil Diamond|N. Diamond]] / [[Karel Šíp|K. Šíp]]), 1998
+* ''Všechno právě teď je jen (The Way You Look, Tonight)'' ([[Jerome Kern|J. Kern]] / [[Pavel Vrba (textař)|P. Vrba]]), 2011
+* ''Všechno spí (Wiegenlied)'' ([[Johannes Brahms|J. Brahms]] / [[Zdeněk Borovec|Z. Borovec]]), 1981
+* ''Všem dívkám, co jsem měl kdy rád (To All The Girls I've Loved Before)'' ([[Albert Hammond|A. Hammond]] / [[Pavel Bobek|P. Bobek]], s [[Pavel Bobek|Pavlem Bobkem]], 2001
+* ''Všichni mí strážní andělé (Wind Beneath My Wings)'' ([[Larry Henley|L. Henley]] / [[Karel Šíp|K. Šíp]]), 2012
+* ''Vším byl bych rád'' ([[Petr Hapka|P. Hapka]] / [[Zdeněk Rytíř|Z. Rytíř]]), 1977
+* ''Všichni nám jen závidí'' ([[Ladislav Štaidl|L. Štaidl]] / [[Miroslav Černý (moderátor)|M. Černý]]), 1984
+* ''Vůně mléka'' ([[Ladislav Štaidl|L. Štaidl]] / [[Z. L. Dufek]]), 1976
+* ''Vyskoč, vstávej, k nám se dej'' ([[Karel Svoboda|K. Svoboda]] / [[František Ringo Čech|F. R. Čech]]), s [[Helena Vondráčková|Helenoou Vondráčkovou]] a [[Jiří Schelinger|Jiřím Schelingerem]], 1975
+* ''Vzhůru, mládenci'' ([[Vítězslav Hádl|V. Hádl]] / [[Zdeněk Rytíř|Z. Rytíř]]), s [[Jiří Korn|Jiřím Kornem]] a [[Vlastimil Harapes|Vlastimilem Harapesem]], 1987
+
+== W ==
+* ''Walk With Me'' ([[Robert Mellin|R. Mellin]]), 1966
+* ''Was damals war (Láska bláznivá)'' ([[Karel Svoboda|K. Svoboda]] / [[Florian Cusano|F. Cusano]]), 1969
+* ''Weit liegt die schöne Zeit (Narodil se máj)'' ([[Ladislav Štaidl|L. Štaidl]] / [[Joachim Relin|J. Relin]]), 1969
+* ''Wenn leis ein Vogel singt (Zpívejte písně mé)'' ([[Ladislav Štaidl|L. Štaidl]] / [[Fred Gertz|F. Gertz]]), 1973
+* ''What Did I Say'' ([[Ray Charles|R. Charles]]), 1965
+* ''Wonderland (Pábitelé)'' ([[Ladislav Štaidl|L. Štaidl]] / [[Borek Severa|B. Severa]]), 1987
+
+== Y ==
+* ''You Are Everywhere (Posel dobrých zpráv)'' ([[Michal David|M. David]] / [[Michal Horáček|M. Horáček]]), 1987
+
+== Z ==
+* ''Z dávných dnů (Only You)'' ([[Buck Ram|B. Ram]] / [[Eduard Krečmar|E. Krečmar]]), 1984
+* ''Z diskotéky známá'' ([[Michal David|M. David]] / [[Michal Horáček|M. Horáček]]), 1986
+* ''Z lásky růže cítím'' ([[Georg Friedrich Händel|G. F. Händel]] / [[Jaroslav Machek|J. Machek]]), s [[Eva Urbanová|Evou Urbanovou]], 1998
+* ''Z mé cigarety stoupá dým'' ([[Karel Svoboda|K. Svoboda]] / [[Michal Bukovič|M. Bukovič]]), 1984
+* ''Za bílou záclonou'' ([[Karel Svoboda|K. Svoboda]] / [[Eduard Krečmar|E. Krečmar]]), 1982
+* ''Za lásku pálím svíci (You've Lose That Lovin' Feelin')'' ([[Phil Spector|P. Spector]], [[Barry Mann|B. Mann]] / [[Eduard Krečmar|E. Krečmar]]), 1973, 2011
+* ''Za morem je bílá růža'' (traditional), 2010
+* ''Za střípek lásky'' ([[Michal David|M. David]], [[František Janeček (producent)|F. Janeček]] / [[Jaroslav Machek|J. Machek]]), s [[Lucie Bílá|Lucií Bílou]], 1997
+* ''Začínám žít'' ([[Ladislav Štaidl|L. Štaidl]], [[Karel Gott|K. Gott]] / [[Ladislav Štaidl|L. Štaidl]]), 1984
+* ''Záhadnou lásku mám'' ([[Karel Svoboda|K. Svoboda]] / [[František Ringo Čech|F. R. Čech]]), 1975
+* ''Zakletý zámek'' ([[Arnošt Kavka|A. Kavka]] / [[Bohuslav Nádvorník|B. Nádvorník]]), 1967
+* ''Zámoří'' ([[Ladislav Štaidl|L. Štaidl]] / [[Jiří Štaidl|J. Štaidl]]), s [[Karel Hála|K. Hálou]], 1966
+* ''Zas budeš krásná (The Sun Ain't Gonna Shine Anymore)'' ([[Bob Crewe|B. Crewe]] / [[Karel Šíp|K. Šíp]]), 1998
+* ''Zas pár dnů tě mám (Together Again)'' ([[Buck Owens|B. Owens]] / [[Zdeněk Borovec|Z. Borovec]]), 1981
+* ''Zasadil sem čerešenku v humně'' (traditional), 2010
+* ''Zastav čas'' ([[Jiří Škorpík|J. Škorpík]] / [[Miroslav Kuželka|M. Kuželka]]), 2004
+* ''Zázrak vánoční'' ([[Michal David|M. David]] / [[Rudolf Kubík|R. Kubík]]), 1995
+* ''Zátiší'' ([[Bohuslav Ondráček|B. Ondráček]] / [[Jiří Štaidl|J. Štaidl]]), 1973
+* ''Zavřu teď krám s básněmi (Les Bicyclettes de Belsize)'' ([[Les Reed|L. Reed]] / [[Jiří Štaidl|J. Štaidl]]), 1969, 1976 
+* ''Zbyl tu tvůj stín (Where Have You Been All My Life)'' ([[Wayland Holyfield|W. Holyfield]] / [[Zdeněk Rytíř|Z. Rytíř]]), 1978
+* ''Zdá se mi, zdává (Try To Remember)'' ([[Harvey Schmidt|H. Schmidt]] / [[Zdeněk Borovec|Z. Borovec]]), 1984
+* ''Zdráv buď, Robinsone'' ([[Karel Svoboda|K. Svoboda]] / [[Zdeněk Borovec|Z. Borovec]]), 1982
+* ''Zdvořilý Woody'' ([[Jiří Šlitr|J. Šlitr]] / [[Jiří Suchý|J. Suchý]]), 1964
+* ''Zednická'' ([[Ladislav Štaidl|L. Štaidl]] / [[Jiří Štaidl|J. Štaidl]]), 1975
+*  ''Zejtra už ti sbohem dám (My Whole World Is Falling Down)'' ([[Jerry Crutchfield|J. Crutchfield]] / [[Jiří Štaidl|J. Štaidl]]), s [[Yvonne Přenosilová|Yvonne Přenosilovou]], 1965 
+* ''Země vstává'' ([[Michal David|M. David]] / [[Lou Fanánek Hagen]]), 2016
+* ''Zítra se tvá loď objeví'' ([[Jaromír Klempíř|J. Klempíř]] / [[František Řebíček|F. Řebíček]]), 1966
+* ''Zítra stromek zazáří'' ([[Rudolf Rokl|R. Rokl]], [[Karel Gott|K. Gott]] / [[Ivan Rössler|I. Rösler]]), s [[Ivana Snopová|Ivanou Snopovou]], 1982
+* ''Zkus, louko, déle kvést'' ([[Ladislav Štaidl|L. Štaidl]] / [[Jiří Štaidl|J. Štaidl]]), 1973
+* ''Zlatá náušnice (Golden Earrings)'' ([[Victor Young|V. Young]], [[Raymond Evans|R. Evans]] / [[Jiří Štaidl|J. Štaidl]]), 1966
+* ''Zlatý sníh'' ([[Kryštof Marek|K. Marek]]) s [[Monika Absolonová|Monikou Absolonovou]], 2016
+* ''Zloděj dobytka (You Must Have Been A Beautiful Baby'' ([[Harry Warren|H. Warren]] / [[Jiří Štaidl|J. Štaidl]]), 1965 
+* ''Zmírám láskou (Love Hurts)'' ([[Boudleaux Bryant|B. Bryant]] / [[Pavel Vrba (textař)|P. Vrba]]), 1998
+* ''Zmizely stíny (I Can See Clearly Now)'' ([[Johnny Nash|J. Nash]] / [[Hana Sorosová|H. Sorosová]]), 2012
+* ''Zní nad Betlémem Gloria'' (traditional / [[Václav Renč|V. Renč]]), 1969
+* ''Zní písní proud (Sing)'' ([[Joe Raposo|J. Raposo]] / [[Eduard Krečmar|E. Krečmar]]), 1973
+* ''Zpátky si dám tenhle film (Kiss Me Goodbye)'' ([[Les Reed|L. Reed]] / [[Jiří Štaidl|J. Štaidl]]), 1969
+* ''Zpíval jsem rád (I've Gotta Be Me)'' ([[Walter Marks|W. Marks]] / [[Zdeněk Borovec|Z. Borovec]]), 1969
+* ''Zpívám (Blue Skies)'' ([[Irving Berlin|I. Berlin]] / [[Vladimír Dvořák|V. Dvořák]]), 1965
+* ''Zpívám jednu píseň dál a dál (A Song For You)'' ([[Leon Russell|L. Russell]] / [[Pavel Vrba (textař)|P. Vrba]]), 2011
+* ''Zpívej nonstop'' ([[Karel Svoboda|K. Svoboda]] / [[Zdeněk Borovec|Z. Borovec]]), 1979
+* ''Zpívejte písně mé'' ([[Ladislav Štaidl|L. Štaidl]] / [[Michael Prostějovský|M. Prostějovský]]), 1971
+* ''Zřícený schody (Princess In Rags)'' ([[Helen Miller|H. Miller]] / [[Jiří Štaidl|J. Štaidl]]), 1966
+* ''Zůstaň stát'' ([[Ladislav Štaidl|L. Štaidl]], [[Karel Gott|K. Gott]] / [[Ladislav Štaidl|L. Štaidl]]), 1986
+* ''Zůstanu svůj (Du wirst es sein)'' ([[Peter Griffin|P. Griffin]] / [[Zdeněk Rytíř|Z. Rytíř]]), 1986
+* ''Zůstaváš'' ([[Pavol Habera|P. Habera]] / [[Janek Ledecký|J. Ledecký]]), 1992
+* ''Zůzi (Oh, Julie)'' ([[Shakin' Stevens|S. Stevens]] / [[Eduard Krečmar|E. Krečmar]]), 1982
+* ''Zvon snů (Song Sung Blue)'' ([[Neil Diamond|N. Diamond]] / [[Zdeněk Rytíř|Z. Rytíř]]), 1973
+* ''Zvonky štěstí'' ([[Jiří Zmožek|J. Zmožek]] / [[Zdeněk Rytíř|Z. Rytíř]]) s [[Dara Rolins|Darinou Rolincovou]], 1985
+
+== Ž ==
+* ''Žádám víc (Can't Help Falling In Love)'' ([[George David Weiss|G. D. Weiss]], [[Hugo Peretti|H. Peretti]] / [[Zdeněk Borovec|Z. Borovec]]), 1975
+* ''Žalu dřív jsem se smál (Runaway)'' ([[Del Shannon|D. Shannon]] / [[Eduard Krečmar|E. Krečmar]]), 1998
+* ''Žaluju ptákům (When We Were Young)'' ([[Les Reed|L. Reed]] / [[Jiří Štaidl|J. Štaidl]]), 1969
+* ''Žárlivý (Jalousie)'' ([[Jacob Gade|J. Gade]] / [[Zdeněk Borovec|Z. Borovec]]), 1985
+* ''Ženy, ach ženy'' ([[Franz Lehár|F. Lehár]] / [[Jiří Aplt|J. Aplt]]), 1987
+* ''Ženy, které nemůžeme mít'' ([[Karel Gott|K. Gott]] / [[Adam Suchý|A. Suchý]]), 2004
+* ''Žiju rád'' ([[Karel Svoboda|K. Svoboda]] / [[Jiří Štaidl|J. Štaidl]]), 1971
+* ''Žít'' ([[Karel Svoboda|K. Svoboda]] / [[Karel Šíp|K. Šíp]]), 1988
+* ''Žít stokrát (Theater)'' ([[Ralph Siegel|R. Siegel]] / [[Zdeněk Borovec|Z. Borovec]]), 1979
+* ''Žít svá léta (Vita mia)'' s [[Ladislav Křížek|Ladislavem Křížkem]], 2001
+* ''Život je bílý dům'' – ([[Jiří Bažant]], [[Jiří Malásek]], [[Karel Hála]] / [[Vratislav Blažek]])
+* ''Život jde dál (I Wish)'' ([[Stevie Wonder|S. Wonder]] / [[Zdeněk Rytíř|Z. Rytíř]]), 1977
+* ''Život proudí (Circle Of Life)'' ([[Elton John|E. John]] / [[Eduard Krečmar|E. Krečmar]]), 2008
+
+== Související články ==
+* [[Karel Gott]]
+* [[Diskografie Karla Gotta]]
+
+== Externí odkazy ==
+* http://karelgott.mzf.cz/pisne/?lang=cs&men=cs&id=1&CS=on&DE=on&OS=on http://karelgott.mzf.cz/pisne/
+* https://www.discogs.com/artist/350933-Karel-Gott?limit=500
+* http://www.akordytexty.cz/index.php?id_interpret=zkl33850&act=skladb
+
+{{Portály|Hudba}}
+
+[[Kategorie:Karel Gott]]
+[[Kategorie:Seznamy písní|Gott, Karel]]
