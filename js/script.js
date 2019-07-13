@@ -2,11 +2,8 @@
 
 byeIE();
 
-/*
-// snadné načtení souboru pro každého!
-fetch("https://blabla.cz/blabla.json")
-  .then(response => response.json()) // nebo .text(), když to není json
-  .then(data => {
-    // tady jde provést s daty cokoliv
-  });
-*/
+document.addEventListener("DOMContentLoaded", () => { 
+  [...document.querySelectorAll(".wcbutton")].forEach((el) => {
+    el.addEventListener("click", e => document.querySelector("#wordcloud").innerHTML = `<img class="wcimg" src="https://data.irozhlas.cz/gott-80/img/${e.target.id}.png">`)
+  })
+});
