@@ -86,27 +86,14 @@
 /************************************************************************/
 /******/ ({
 
-/***/ "./js/byeie.js":
-/*!*********************!*\
-  !*** ./js/byeie.js ***!
-  \*********************/
-/*! exports provided: byeIE */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"byeIE\", function() { return byeIE; });\nfunction byeIE() {\n  if (navigator.appName === 'Microsoft Internet Explorer' || !!(navigator.userAgent.match(/Trident/) || navigator.userAgent.match(/rv:11/))) {\n    var warn = document.createElement('div');\n    warn.innerHTML = 'Používáte zastaralý Internet Explorer, takže vám části tohoto webu nemusí fungovat. Navíc to <a target=\"_blank\" style=\"color:white;\" rel=\"noopener noreferrer\" href=\"https://www.zive.cz/clanky/microsoft-internet-explorer-neni-prohlizec-prestante-ho-tak-pouzivat/sc-3-a-197149/default.aspx\">není bezpečné</a>, zvažte přechod na <a target=\"_blank\" style=\"color:white;\" rel=\"noopener noreferrer\" href=\"https://www.mozilla.org/cs/firefox/new/\">jiný prohlížeč</a>.';\n    warn.style.cssText = 'text-align:center;position:absolute;width:100%;height:auto;opacity:1;z-index:100;background-color:#d52834;top:37px;padding-top:4px;padding-bottom:3px;color:white;';\n    document.body.appendChild(warn);\n  }\n}\n\n//# sourceURL=webpack:///./js/byeie.js?");
-
-/***/ }),
-
 /***/ "./js/script.js":
 /*!**********************!*\
   !*** ./js/script.js ***!
   \**********************/
-/*! no exports provided */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
+/*! no static exports found */
+/***/ (function(module, exports) {
 
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _byeie__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./byeie */ \"./js/byeie.js\");\nfunction _toConsumableArray(arr) { return _arrayWithoutHoles(arr) || _iterableToArray(arr) || _nonIterableSpread(); }\n\nfunction _nonIterableSpread() { throw new TypeError(\"Invalid attempt to spread non-iterable instance\"); }\n\nfunction _iterableToArray(iter) { if (Symbol.iterator in Object(iter) || Object.prototype.toString.call(iter) === \"[object Arguments]\") return Array.from(iter); }\n\nfunction _arrayWithoutHoles(arr) { if (Array.isArray(arr)) { for (var i = 0, arr2 = new Array(arr.length); i < arr.length; i++) { arr2[i] = arr[i]; } return arr2; } }\n\n // loučíme se s IE\n\nObject(_byeie__WEBPACK_IMPORTED_MODULE_0__[\"byeIE\"])();\ndocument.addEventListener(\"DOMContentLoaded\", function () {\n  _toConsumableArray(document.querySelectorAll(\".wcbutton\")).forEach(function (el) {\n    el.addEventListener(\"click\", function (e) {\n      return document.querySelector(\"#wordcloud\").innerHTML = \"<img class=\\\"wcimg\\\" src=\\\"https://data.irozhlas.cz/gott-80/img/\".concat(e.target.id, \".png\\\">\");\n    });\n  });\n});\n\n//# sourceURL=webpack:///./js/script.js?");
+eval("\n\n//# sourceURL=webpack:///./js/script.js?");
 
 /***/ })
 

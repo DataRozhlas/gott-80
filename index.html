@@ -231,20 +231,100 @@
 
   <div class="row-main row-main--narrow">
     <figure class="b-detail__img"><img src="https://interaktivni.rozhlas.cz/brexit/media/cover.jpg" width="100%" /><figcaption>Foto <a href='https://ctk.cz'>ČTK</a></figcaption></figure>
-    <style>
+    <script>
+if (navigator.appName === 'Microsoft Internet Explorer' || !!(navigator.userAgent.match(/Trident/) || navigator.userAgent.match(/rv:11/))) {
+  var warn = document.createElement('div');
+  warn.innerHTML = 'Používáte zastaralý Internet Explorer, takže vám části tohoto webu nemusí fungovat. Navíc to <a target="_blank" style="color:white;" rel="noopener noreferrer" href="https://www.zive.cz/clanky/microsoft-internet-explorer-neni-prohlizec-prestante-ho-tak-pouzivat/sc-3-a-197149/default.aspx">není bezpečné</a>, zvažte přechod na <a target="_blank" style="color:white;" rel="noopener noreferrer" href="https://www.mozilla.org/cs/firefox/new/">jiný prohlížeč</a>.'
+  warn.style.cssText = 'text-align:center;position:absolute;width:100%;height:auto;opacity:1;z-index:100;background-color:#d52834;top:37px;padding-top:4px;padding-bottom:3px;color:white;';
+  document.body.appendChild(warn);
+}
+document.addEventListener("DOMContentLoaded", () => { 
+  [...document.querySelectorAll(".wcbutton")].forEach((el) => {
+        el.addEventListener("click", (e) => {
+            document.querySelector("#wordcloud").innerHTML = `<img class="wcimg" src="https://data.irozhlas.cz/gott-80/img/${e.target.id}.png">`;
+            [...document.querySelectorAll(".wcbutton")].forEach(btn => btn.classList.remove("selected"));
+            e.target.classList.add("selected");
+        });
+    });
+});
+</script>
+<style>
+#wordcloud {
+    min-height: 310px;
+    margin-bottom: 5px;
+}
 .wcimg {
     width: 100%;
 }
+#buttons-container {
+    display: flex;
+    justify-content: center;
+}
+#buttons {
+    border: 1px #ccc solid;
+    border-radius: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: max-content;
+}
+
+.wcbutton {
+  background-color: white;
+  border: none;
+    border-right: 1px #ccc solid;
+  cursor: pointer;
+    display: inline-block;
+    padding: 10px;
+}
+
+.wcbutton:first-child {
+    border-radius: 10px 0 0 10px;
+}
+
+.wcbutton:last-child {
+  border-right: none; /* Prevent double borders */
+    border-radius: 0 10px 10px 0;
+}
+
+.wcbutton:hover, .selected {
+  background-color: #ccc;
+}
+
+@media only screen and (max-width: 800px) {
+    #wordcloud {
+        min-height: 200px;
+    }
+
+    #buttons {
+        border: none;
+    }
+    .wcbutton {
+        border: 1px #ccc solid;
+        border-radius: 10px;
+        padding: 5px;
+        margin: 5px;
+    }
+
+    .wcbutton:first-child, .wcbutton:last-child {
+        border-radius: 10px;
+        border-right: 1px solid #ccc;
+    }
+}
 </style>
-<div id="wordcloud"></div>
-<div id="buttons">
-    <button type="button" id="wc_60" class="wcbutton">60. léta</button>
-    <button type="button" id="wc_70" class="wcbutton">70. léta</button>
-    <button type="button" id="wc_80" class="wcbutton">80. léta</button>
-    <button type="button" id="wc_90" class="wcbutton">90. léta</button>
-    <button type="button" id="wc_00" class="wcbutton">Nultá léta</button>
-    <button type="button" id="wc_10" class="wcbutton">Po roce 2010</button>
-    <button type="button" id="wc_total" class="wcbutton">Vše</button>
+<div id="wordcloud">
+    <img class="wcimg" src="https://data.irozhlas.cz/gott-80/img/wc_total.png"></img>
+</div>
+<div id="buttons-container">
+    <div id="buttons">
+        <div id="wc_total" class="wcbutton selected">Vše</div>
+        <div id="wc_60" class="wcbutton">60. léta</div>
+        <div id="wc_70" class="wcbutton">70. léta</div>
+        <div id="wc_80" class="wcbutton">80. léta</div>
+        <div id="wc_90" class="wcbutton">90. léta</div>
+        <div id="wc_00" class="wcbutton">Nultá léta</div>
+        <div id="wc_10" class="wcbutton">Po roce 2010</div>
+    </div>
 </div>
 
     <p class="meta meta--right meta--big">
@@ -341,27 +421,14 @@
 /************************************************************************/
 /******/ ({
 
-/***/ "./js/byeie.js":
-/*!*********************!*\
-  !*** ./js/byeie.js ***!
-  \*********************/
-/*! exports provided: byeIE */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"byeIE\", function() { return byeIE; });\nfunction byeIE() {\n  if (navigator.appName === 'Microsoft Internet Explorer' || !!(navigator.userAgent.match(/Trident/) || navigator.userAgent.match(/rv:11/))) {\n    var warn = document.createElement('div');\n    warn.innerHTML = 'Používáte zastaralý Internet Explorer, takže vám části tohoto webu nemusí fungovat. Navíc to <a target=\"_blank\" style=\"color:white;\" rel=\"noopener noreferrer\" href=\"https://www.zive.cz/clanky/microsoft-internet-explorer-neni-prohlizec-prestante-ho-tak-pouzivat/sc-3-a-197149/default.aspx\">není bezpečné</a>, zvažte přechod na <a target=\"_blank\" style=\"color:white;\" rel=\"noopener noreferrer\" href=\"https://www.mozilla.org/cs/firefox/new/\">jiný prohlížeč</a>.';\n    warn.style.cssText = 'text-align:center;position:absolute;width:100%;height:auto;opacity:1;z-index:100;background-color:#d52834;top:37px;padding-top:4px;padding-bottom:3px;color:white;';\n    document.body.appendChild(warn);\n  }\n}\n\n//# sourceURL=webpack:///./js/byeie.js?");
-
-/***/ }),
-
 /***/ "./js/script.js":
 /*!**********************!*\
   !*** ./js/script.js ***!
   \**********************/
-/*! no exports provided */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
+/*! no static exports found */
+/***/ (function(module, exports) {
 
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _byeie__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./byeie */ \"./js/byeie.js\");\nfunction _toConsumableArray(arr) { return _arrayWithoutHoles(arr) || _iterableToArray(arr) || _nonIterableSpread(); }\n\nfunction _nonIterableSpread() { throw new TypeError(\"Invalid attempt to spread non-iterable instance\"); }\n\nfunction _iterableToArray(iter) { if (Symbol.iterator in Object(iter) || Object.prototype.toString.call(iter) === \"[object Arguments]\") return Array.from(iter); }\n\nfunction _arrayWithoutHoles(arr) { if (Array.isArray(arr)) { for (var i = 0, arr2 = new Array(arr.length); i < arr.length; i++) { arr2[i] = arr[i]; } return arr2; } }\n\n // loučíme se s IE\n\nObject(_byeie__WEBPACK_IMPORTED_MODULE_0__[\"byeIE\"])();\ndocument.addEventListener(\"DOMContentLoaded\", function () {\n  _toConsumableArray(document.querySelectorAll(\".wcbutton\")).forEach(function (el) {\n    el.addEventListener(\"click\", function (e) {\n      return document.querySelector(\"#wordcloud\").innerHTML = \"<img class=\\\"wcimg\\\" src=\\\"https://data.irozhlas.cz/gott-80/img/\".concat(e.target.id, \".png\\\">\");\n    });\n  });\n});\n\n//# sourceURL=webpack:///./js/script.js?");
+eval("\n\n//# sourceURL=webpack:///./js/script.js?");
 
 /***/ })
 

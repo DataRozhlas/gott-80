@@ -14,35 +14,7 @@ const libraryPresets = {
 };
 
 function uvozovky(text) {
-  let isTag = false;
-  let uvozovkyCount = 0;
-  let outText = "";
-  const srcText = text.replace(/&quot;/g, "\"");
-  [...srcText].forEach((letter) => {
-    switch (letter) {
-      case "„":
-      case "“":
-        uvozovkyCount += 1;
-        outText += letter;
-        break;
-      case "\"":
-        if (!isTag) {
-          outText += uvozovkyCount % 2 ? "“" : "„";
-          uvozovkyCount += 1;
-        } else {
-          outText += letter;
-        }
-        break;
-      case "<":
-      case ">":
-        isTag = !isTag;
-        outText += letter;
-        break;
-      default:
-        outText += letter;
-    }
-  });
-  return outText;
+  return text;
 }
 
 const build = async (mode) => {
